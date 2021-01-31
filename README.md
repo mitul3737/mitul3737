@@ -1,70 +1,76 @@
-<h1 align="center">Hi 👋, I'm MD. Shahriyar Al Mustakim Mitul</h1>
-<h3 align="center">A Passionate Problem Solver and Open-Source Contributor</h3>
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/abhisheknaiidu">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+<a href="https://www.reddit.com/user/geekyabhi/">
+  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mitul3737&label=Profile%20views&color=0e75b6&style=flat" alt="mitul3737" /> </p>
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
-<p align="left"> <a href="https://twitter.com/shahriyarmitul" target="blank"><img src="https://img.shields.io/twitter/follow/shahriyarmitul?logo=twitter&style=for-the-badge" alt="shahriyarmitul" /></a> </p>
+<br />
 
-<!--
-- 🔭 I’m currently working on [Python Projects](-link-)
--->
-- 🌱 I’m currently learning **Competitive Programming basics**
-<!--
+Hi, I'm [Abhishek Naidu!](https://blog.abhisheknaidu.tech/), a passionate self-taught Full Stack Web Developer 🚀 from India.
 
-- 👯 I’m looking to collaborate on [Open-Source projects](-link-)
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+**Talking about Personal Stuffs:**
 
-- 🤝 I’m looking for help with [Open-Source project](--link--)
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning Typescript; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
+- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
 
-- 👨‍💻 All of my projects are available at [--link--](--link--)
+**Languages and Tools:**  
 
--->
-<!--
-- 📝 I regularly write articles on [https://dev.to/dashboard](https://dev.to/dashboard)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-- 💬 Ask me about **Open-source contribution, Microsoft Learn Student Ambassador Application**
--->
-- 📫 How to reach me **MdShahriyarAlMustaki.Mitul@studentambassadors.com**
-<!--
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uLXftyRT5h5iEB-L-BjKeKx4hKB9ZK5_/view?usp=sharing](https://drive.google.com/file/d/1uLXftyRT5h5iEB-L-BjKeKx4hKB9ZK5_/view?usp=sharing)
--->
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+C++          8 hrs 46 mins   █████████████████████▓░░░   87.24 % 
+JavaScript   44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Text         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+INI          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+```
+<!--END_SECTION:waka-->
 
-- ⚡ Fun fact **I love sleeping😴, watching movie🎬 and travelling**
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Completing "Hacktoberfest 2020"](https://dev.to/mitul3737/completing-hacktoberfest-2020-1b70)
-- [My first open-source contribution at “Hacktoberfest 2020](https://medium.com/@shahriyarmitul3737/my-first-open-source-contribution-at-hacktoberfest-2020-ad82d040a0ad?source=rss-c1edac92734b------2)
-<!-- BLOG-POST-LIST:END -->
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/mitul_3737" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="mitul_3737" height="30" width="40" /></a>
-<a href="https://dev.to/mitul3737" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mitul3737" height="30" width="40" /></a>
-<a href="https://twitter.com/shahriyarmitul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shahriyarmitul" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-shahriyar-al-mustakim-mitul-9084b31a0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="md-shahriyar-al-mustakim-mitul-9084b31a0/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mitul-3737" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mitul-3737" height="30" width="40" /></a>
-<a href="https://medium.com/@shahriyarmitul3737" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@shahriyarmitul3737" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCz5O3xDcr4Wxh-p2Zj-re_A " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucz5o3xdcr4wxh-p2zj-re_a" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mitul_3737" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mitul_3737" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mitul3737" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mitul3737" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mitul_3737" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mitul_3737" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@shahriyarmitul3737" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@shahriyarmitul3737" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shahriyarmitul3737/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="shahriyarmitul3737/" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/mitul3737" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="mitul3737" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitul3737&show_icons=true&locale=en&layout=compact" alt="mitul3737" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitul3737&show_icons=true&locale=en" alt="mitul3737" /></p>
+🚧 **My Todoist Stats:**
+<!-- TODO-IST:START -->
+🏆  7,047 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 538 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
 
 
-# Blog posts
+📈 My GitHub Stats
 
-<!-- BLOG-POST-LIST:START -->
-- [Completing "Hacktoberfest 2020"](https://dev.to/mitul3737/completing-hacktoberfest-2020-1b70)
-- [My first open-source contribution at “Hacktoberfest 2020](https://medium.com/@shahriyarmitul3737/my-first-open-source-contribution-at-hacktoberfest-2020-ad82d040a0ad?source=rss-c1edac92734b------2)
-<!-- BLOG-POST-LIST:END -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+
+
 
