@@ -41,8 +41,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=abhishekhnaiidu.abhishekhnaiidu)
 <br />
 
-
-
 <p><img align="right" alt="GIF" src="https://github.com/mitul3737/mitul3737/blob/main/mituls%20code.gif" width="500" height="320" /></p>
   
 **Talking about Personal Stuffs:**
@@ -90,7 +88,8 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ⏳  Longest streak is 10 days-->
 <!-- TODO-IST:END -->
 
-
+<p> </p>
+<p> </p>
 
 
 <p align="right"> <img  src="https://github-readme-stats.vercel.app/api?username=mitul3737&show_icons=true&theme=merko" alt="mitul3737" /></p><!--theme =gotham and thus the colour is awesome-->
