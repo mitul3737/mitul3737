@@ -72,7 +72,7 @@
 <!--[My work details]
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->-->
+<!--END_SECTION:waka-->
 
 <!--[Coffee buy]
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
@@ -83,11 +83,12 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 [My todo list]
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
+<!--
 🏆  7,047 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 538 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->-->
+⏳  Longest streak is 10 days-->
+<!-- TODO-IST:END -->
 
 
 📈 My GitHub Stats
