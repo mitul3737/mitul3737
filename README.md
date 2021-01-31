@@ -53,7 +53,7 @@
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Typescript; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
+- 📫 How to reach me: [@ShahriyarMitul](https://twitter.com/ShahriyarMitul);
 - 📝[Resume](https://drive.google.com/file/d/1uLXftyRT5h5iEB-L-BjKeKx4hKB9ZK5_/view?usp=sharing)
 
 **Languages and Tools:**  
