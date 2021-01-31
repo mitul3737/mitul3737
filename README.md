@@ -91,9 +91,9 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <!-- TODO-IST:END -->
 
 
-📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mitul3737&show_icons=true&theme=merko" alt="mitul3737" /></p><!--theme =gotham and thus the colour is awesome-->
+
+<p align="center"> <img  src="https://github-readme-stats.vercel.app/api?username=mitul3737&show_icons=true&theme=merko" alt="mitul3737" /></p><!--theme =gotham and thus the colour is awesome-->
  <!--Adding private contributions count to total commits count
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitul3737&count_private=true)-->
 <!--
