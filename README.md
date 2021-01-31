@@ -27,9 +27,7 @@
 <a href="https://codeforces.com/profile/mitul_3737" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mitul_3737" height="22" width="22" /></a>
 
 <a href="https://www.hackerearth.com/@shahriyarmitul3737" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@shahriyarmitul3737" height="22" width="22" /></a>
-
 <a href="https://auth.geeksforgeeks.org/user/shahriyarmitul3737/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="shahriyarmitul3737/" height="22" width="22" /></a>
-
 <a href="https://www.topcoder.com/members/mitul3737" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="mitul3737" height="22" width="22" /></a>
 
 <!--
@@ -74,8 +72,7 @@
 <!--[My work details]
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
--->
+<!--END_SECTION:waka-->-->
 
 <!--[Coffee buy]
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
@@ -90,8 +87,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 🌸  Completed 0 tasks today           
 ✅  Completed 538 tasks so far           
 ⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
- -->
+<!-- TODO-IST:END -->-->
 
 
 📈 My GitHub Stats
