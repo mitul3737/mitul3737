@@ -14,9 +14,7 @@
 <a href="https://www.linkedin.com/in/md-shahriyar-al-mustakim-mitul-9084b31a0">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://stackoverflow.com/users/mitul-3737">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/stackoverflow.svg" />
-</a>
+<a href="https://stackoverflow.com/users/mitul-3737" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mitul-3737" height="30" width="40" /></a>
 
 
 <!--
