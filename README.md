@@ -2,12 +2,12 @@
 <h3 align="center">A Passionate Problem Solver and Open-Source Contributor</h3>
 
 
-
 <!--
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 -->
+
 <a href="https://twitter.com/ShahriyarMitul">
   <img align="left" alt="Mitul | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
