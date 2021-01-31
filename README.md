@@ -46,7 +46,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Typescript; 
+- 🌱 I’m currently learning Competitive programming basics; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@ShahriyarMitul](https://twitter.com/ShahriyarMitul);
 - 📝[Resume](https://drive.google.com/file/d/1uLXftyRT5h5iEB-L-BjKeKx4hKB9ZK5_/view?usp=sharing)
