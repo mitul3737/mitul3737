@@ -24,8 +24,9 @@
 - 💬 Ask me about **Open-source contribution, Microsoft Learn Student Ambassador Application**
 -->
 - 📫 How to reach me **MdShahriyarAlMustaki.Mitul@studentambassadors.com**
-
+<!--
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uLXftyRT5h5iEB-L-BjKeKx4hKB9ZK5_/view?usp=sharing](https://drive.google.com/file/d/1uLXftyRT5h5iEB-L-BjKeKx4hKB9ZK5_/view?usp=sharing)
+-->
 
 - ⚡ Fun fact **I love sleeping😴, watching movie🎬 and travelling**
 
