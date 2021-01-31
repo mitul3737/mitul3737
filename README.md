@@ -103,9 +103,10 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)-->
 <!--theme colour change  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitul3737&show_icons=true&theme=merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula)-->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mitul3737&repo=github-readme-stats)](https://github.com/mitul3737/github-readme-stats)
+
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Completing "Hacktoberfest 2020"](https://dev.to/mitul3737/completing-hacktoberfest-2020-1b70)
