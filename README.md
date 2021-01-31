@@ -39,12 +39,11 @@
 </a>
 -->
 ![](https://visitor-badge.glitch.me/badge?page_id=abhishekhnaiidu.abhishekhnaiidu)
-
 <br />
 
 
 
-  <img align="right" alt="GIF" src="https://github.com/mitul3737/mitul3737/blob/main/mituls%20code.gif" width="500" height="320" />
+<p><img align="right" alt="GIF" src="https://github.com/mitul3737/mitul3737/blob/main/mituls%20code.gif" width="500" height="320" /></p>
   
 **Talking about Personal Stuffs:**
 
@@ -69,7 +68,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitul3737&show_icons=true&locale=en&layout=compact" alt="mitul3737" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitul3737&show_icons=true&locale=en&layout=compact" alt="mitul3737" />
 <!--[My work details]
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
@@ -94,7 +93,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mitul3737&show_icons=true&theme=merko" alt="mitul3737" /><!--theme =gotham and thus the colour is awesome-->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mitul3737&show_icons=true&theme=merko" alt="mitul3737" /></p><!--theme =gotham and thus the colour is awesome-->
  <!--Adding private contributions count to total commits count
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitul3737&count_private=true)-->
 <!--
