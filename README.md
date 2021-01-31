@@ -69,6 +69,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitul3737&show_icons=true&locale=en&layout=compact" alt="mitul3737" /></p>
 <!--[My work details]
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
@@ -93,7 +94,17 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mitul3737&show_icons=true&theme=gotham" alt="abhisheknaiidu" /><!--theme =gotham and thus the colour is awesome-->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mitul3737&show_icons=true&theme=merko" alt="mitul3737" /><!--theme =gotham and thus the colour is awesome-->
+ <!--Adding private contributions count to total commits count
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitul3737&count_private=true)-->
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)-->
+<!--Showing icons
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)-->
+<!--theme colour change  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitul3737&show_icons=true&theme=merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula)-->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
   
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
