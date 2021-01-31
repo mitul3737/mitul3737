@@ -9,13 +9,28 @@
 </a>
 -->
 <a href="https://twitter.com/ShahriyarMitul">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Mitul | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/md-shahriyar-al-mustakim-mitul-9084b31a0">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Mitul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://stackoverflow.com/users/mitul-3737" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mitul-3737" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/mitul-3737" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mitul-3737" height="22px" width="22px" /></a>
 
+<a href="https://medium.com/@shahriyarmitul3737" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@shahriyarmitul3737" height="22" width="22" /></a>
+
+<a href="https://www.youtube.com/channel/UCz5O3xDcr4Wxh-p2Zj-re_A " target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucz5o3xdcr4wxh-p2zj-re_a" height="22" width="22" /></a>
+
+<a href="https://www.codechef.com/users/mitul_3737" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mitul_3737" height="22" width="22" /></a>
+
+<a href="https://www.hackerrank.com/mitul3737" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mitul3737" height="22" width="22" /></a>
+
+<a href="https://codeforces.com/profile/mitul_3737" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mitul_3737" height="22" width="22" /></a>
+
+<a href="https://www.hackerearth.com/@shahriyarmitul3737" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@shahriyarmitul3737" height="22" width="22" /></a>
+
+<a href="https://auth.geeksforgeeks.org/user/shahriyarmitul3737/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="shahriyarmitul3737/" height="22" width="22" /></a>
+
+<a href="https://www.topcoder.com/members/mitul3737" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="mitul3737" height="22" width="22" /></a>
 
 <!--
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
@@ -29,7 +44,7 @@
 
 <br />
 
-Hi, I'm [Abhishek Naidu!](https://blog.abhisheknaidu.tech/), a passionate self-taught Full Stack Web Developer 🚀 from India.
+
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
