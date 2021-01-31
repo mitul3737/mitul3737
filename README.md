@@ -95,7 +95,9 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mitul3737&show_icons=true&theme=gotham" alt="abhisheknaiidu" /><!--theme =gotham and thus the colour is awesome-->
   
-  
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
