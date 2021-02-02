@@ -88,6 +88,9 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ⏳  Longest streak is 10 days-->
 <!-- TODO-IST:END -->
 
+###Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 📈 My GitHub Stats
