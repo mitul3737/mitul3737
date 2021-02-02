@@ -67,13 +67,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitul3737&show_icons=true&locale=en&layout=compact" alt="mitul3737" />
-<!--[My work details]
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+
 
 
 📈 My GitHub Stats
@@ -98,6 +92,8 @@ No Activity tracked this Week
 - [My first open-source contribution at “Hacktoberfest 2020](https://medium.com/@shahriyarmitul3737/my-first-open-source-contribution-at-hacktoberfest-2020-ad82d040a0ad?source=rss-c1edac92734b------2)
 <!-- BLOG-POST-LIST:END -->
 
-
+###Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
