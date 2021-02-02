@@ -70,26 +70,9 @@
 <!--[My work details]
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!--[Coffee buy]
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
--->
-
-<!--
-[My todo list]
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-<!--
-🏆  7,047 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 538 tasks so far           
-⏳  Longest streak is 10 days-->
-<!-- TODO-IST:END -->
-
-###Coding Stats
-<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
