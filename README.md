@@ -92,7 +92,6 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Completing "Hacktoberfest 2020"](https://dev.to/mitul3737/completing-hacktoberfest-2020-1b70)
-- [My first open-source contribution at “Hacktoberfest 2020](https://medium.com/@shahriyarmitul3737/my-first-open-source-contribution-at-hacktoberfest-2020-ad82d040a0ad?source=rss-c1edac92734b------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Coding Stats
