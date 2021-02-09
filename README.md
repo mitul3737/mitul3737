@@ -44,7 +44,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=abhishekhnaiidu.abhishekhnaiidu)
 <br />
 
-<p><img align="right" alt="GIF" src="https://github.com/mitul3737/mitul3737/blob/main/github.gif" width="500" height="320" /></p>
+<p><img align="right" alt="GIF" src="https://github.com/mitul3737/mitul3737/blob/main/github%20readme.gif" width="500" height="320" /></p>
   
 **Talking about Personal Stuffs:**
 
