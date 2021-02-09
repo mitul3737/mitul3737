@@ -98,7 +98,7 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-C++     5 mins          █████████████████████████   99.81 % 
+C++     3 mins          █████████████████████████   99.75 % 
 ```
 <!--END_SECTION:waka-->
 
