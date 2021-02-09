@@ -43,7 +43,9 @@
 -->
 ![](https://visitor-badge.glitch.me/badge?page_id=abhishekhnaiidu.abhishekhnaiidu)
 <br />
-
+<p align="center">
+  <img width="60%" src="https://github.com/mitul3737/mitul3737/blob/main/github.gif" alt="Mitul's Profiles" />
+  </p>
 <p><img align="right" alt="GIF" src="https://github.com/mitul3737/mitul3737/blob/main/mituls%20code.gif" width="500" height="320" /></p>
   
 **Talking about Personal Stuffs:**
