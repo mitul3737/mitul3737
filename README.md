@@ -98,7 +98,7 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-C++     3 mins          █████████████████████████   99.75 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
