@@ -91,6 +91,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How I got selected into the national level of“ Cisco 2021 National Skill Competition Bangladesh :](https://medium.com/@shahriyarmitul3737/how-i-got-selected-into-the-national-level-of-cisco-2021-national-skill-competition-bangladesh-b2a31de7b77a?source=rss-c1edac92734b------2)
 - [Completing "Hacktoberfest 2020"](https://dev.to/mitul3737/completing-hacktoberfest-2020-1b70)
 - [My first open-source contribution at “Hacktoberfest 2020](https://medium.com/@shahriyarmitul3737/my-first-open-source-contribution-at-hacktoberfest-2020-ad82d040a0ad?source=rss-c1edac92734b------2)
 <!-- BLOG-POST-LIST:END -->
