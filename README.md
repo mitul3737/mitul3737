@@ -100,8 +100,8 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-C++          3 hrs 26 mins   ████████████████████████▒   96.71 % 
-Python       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+C++          7 hrs 11 mins   ████████████████████████▓   98.40 % 
+Python       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 <!--END_SECTION:waka-->
 
