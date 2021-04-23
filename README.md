@@ -100,7 +100,7 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-
+Python       39 mins         ████████████████████████▒   97.05 % 
 ```
 <!--END_SECTION:waka-->
 
