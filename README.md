@@ -43,12 +43,12 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Competitive programming basics; 
+- 🌱 I’m currently learning Using Python for Research by Harvard on Edx; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@ShahriyarMitul](https://twitter.com/ShahriyarMitul);
 - 📝[Resume](https://drive.google.com/file/d/1uLXftyRT5h5iEB-L-BjKeKx4hKB9ZK5_/view?usp=sharing)
 
-**Languages and Tools:**  
+**Languages and Tools:**   by Harvard on Edx
 <!--
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
