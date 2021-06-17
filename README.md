@@ -2,7 +2,7 @@
 <!-- Updating my readme for GitHub-->
 
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm MD. Shahriyar Al Mustakim Mitul</h1>
-<h3 align="center">A Passionate Problem Solver and Open-Source Contributor</h3>
+<h3 align="center">A Community Leader and Open-Source Contributor 😁 </h3>
 
 
 <!--
@@ -23,28 +23,22 @@
 
 <a href="https://www.youtube.com/channel/UCz5O3xDcr4Wxh-p2Zj-re_A " target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucz5o3xdcr4wxh-p2zj-re_a" height="22" width="22" /></a>
 
-<a href="https://www.codechef.com/users/mitul_3737" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mitul_3737" height="22" width="22" /></a>
 
-<a href="https://www.hackerrank.com/mitul3737" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mitul3737" height="22" width="22" /></a>
 
-<a href="https://codeforces.com/profile/mitul_3737" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mitul_3737" height="22" width="22" /></a>
 
-<a href="https://www.hackerearth.com/@shahriyarmitul3737" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@shahriyarmitul3737" height="22" width="22" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shahriyarmitul3737/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="shahriyarmitul3737/" height="22" width="22" /></a>
-<a href="https://www.topcoder.com/members/mitul3737" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="mitul3737" height="22" width="22" /></a>
 
-<!--
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-<a href="https://www.reddit.com/user/geekyabhi/">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-</a>
--->
+
+
+
+
 ![](https://visitor-badge.glitch.me/badge?page_id=abhishekhnaiidu.abhishekhnaiidu)
 <br />
 
+<!--Gif
 <p><img align="right" alt="GIF" src="https://github.com/mitul3737/mitul3737/blob/main/github%20readme.gif" width="500" height="350" /></p>
+-->
+
+
   
 **Talking about Personal Stuffs:**
 
