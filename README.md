@@ -95,8 +95,7 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-TeX    10 mins         ████████████▓░░░░░░░░░░░░   50.83 % 
-Text   9 mins          ████████████▒░░░░░░░░░░░░   49.17 % 
+Python   1 min           █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
