@@ -5,18 +5,21 @@
 <h3 align="center">A Community Leader and Open-Source Contributor 😁 </h3>
 
 
-<!--
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
--->
-
-<a href="https://twitter.com/ShahriyarMitul">
-  <img align="left" alt="Mitul | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/md-shahriyar-al-mustakim-mitul-9084b31a0">
-  <img align="left" alt="Mitul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Mitul's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://twitter.com/ShahriyarMitul">
+  <img align="left" alt="Mitul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<a href="mailto:shahriyarmitul382@gmail.com ">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<a href="https://discord.gg/yzegezxsd8">
+  <img align="left" alt="Learn With Mitul Community" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+
 <a href="https://stackoverflow.com/users/mitul-3737" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mitul-3737" height="22px" width="22px" /></a>
 
 <a href="https://medium.com/@shahriyarmitul3737" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@shahriyarmitul3737" height="22" width="22" /></a>
@@ -24,46 +27,32 @@
 <a href="https://www.youtube.com/channel/UCz5O3xDcr4Wxh-p2Zj-re_A " target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucz5o3xdcr4wxh-p2zj-re_a" height="22" width="22" /></a>
 
 
-
-
-
-
-
-
-
 ![](https://visitor-badge.glitch.me/badge?page_id=abhishekhnaiidu.abhishekhnaiidu)
 <br />
 
-<!--Gif
-<p><img align="right" alt="GIF" src="https://github.com/mitul3737/mitul3737/blob/main/github%20readme.gif" width="500" height="350" /></p>
--->
+<!--For adding Gif
+<p><img align="right" alt="GIF" src="https://github.com/mitul3737/mitul3737/blob/main/github%20readme.gif" width="500" height="350" /></p>-->
 
 
-  
-**Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Using Python for Research by Harvard on Edx; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@ShahriyarMitul](https://twitter.com/ShahriyarMitul);
-- 📝[Resume](https://linktr.ee/Mitul3737)
+### About Me 🚀
+🎓 I’m an Open-Source enthusiast & a fresher pursuing my Bachelors in Computer Science & Engineering. </br>
+👨‍💻  I am passionate about Data Science, ML , Ai, Kubernetes, Web Dev, Machine Learning, DevOps. </br>
 
-**Languages and Tools:**   by Harvard on Edx
-<!--
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
--->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+### My Experiences 🙌
+- [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/) – AWS Community builders are very enthusiast about Cloud and they do experiment cloud features and do test some awesome features and enlightens their community
+- [Microsoft Learn Student Ambassador]( https://studentambassadors.microsoft.com/en-US/profile/94378 ) - Conducted workshops & webinars on Azure, GitHub & Git etc.
+- [Auth0 Ambassador]( https://auth0.com/ambassador-program) – Auth0 Ambassadors are passionate community leaders and they learn Auth0 technologies and share these within his community
+- [Postman Student Expert](https://www.postman.com/company/student-program/#student-expert-program)– Postman Student Experts are passionate about API’s and builds API’s and share the knowledge within his community
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitul3737&show_icons=true&locale=en&layout=compact" alt="mitul3737" />
+- Speaker at  [GDG Cloud Dhaka](https://gdg.community.dev/gdg-cloud-dhaka/)  for [Introduction to Cloud Computing, GCP and QWIKLABS](https://youtu.be/_jQH1MH6x5E))
+
+### Honors & Awards 🏅
+- Became [QWIKLABS]( https://www.qwiklabs.com/) Hall of Fame for completing Google Cloud Labs through QWIKLABS 
+- Received [ Postman Student Expert](https://api.badgr.io/public/assertions/7sh5kY81RYGBPb1NHLFilw?identity__email=shahriyarmitul3737%40gmail.com) badge for completing labs  of Postman
+- Selected as a scholarship recipient for [KubeCon + CloudNativeCon](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/)
+
+
 
 
 
@@ -80,7 +69,6 @@
 <!--theme colour change  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitul3737&show_icons=true&theme=merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula)-->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mitul3737&repo=github-readme-stats)](https://github.com/mitul3737/github-readme-stats)
 
 
 ### Blogs posts
