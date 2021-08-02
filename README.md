@@ -92,4 +92,4 @@ Other    31 mins         █▓░░░░░░░░░░░░░░░░�
 <!--..-->
 
   
- [![Mitul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mitul3737&theme=xcode)]
+ ![Mitul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mitul3737&theme=xcode)
