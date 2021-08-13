@@ -83,8 +83,8 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Python   12 hrs 18 mins  ███████████████████████▒░   93.34 % 
-Other    51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Python   8 hrs 27 mins   ██████████████████████▓░░   90.89 % 
+Other    50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
 ```
 <!--END_SECTION:waka-->
 
