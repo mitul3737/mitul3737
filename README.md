@@ -75,9 +75,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Creating Your First Auth0 Action](https://dev.to/mitul3737/creating-your-first-auth0-action-ehj)
-- [How I got selected into the national level of“ Cisco 2021 National Skill Competition Bangladesh :](https://shahriyarmitul3737.medium.com/how-i-got-selected-into-the-national-level-of-cisco-2021-national-skill-competition-bangladesh-b2a31de7b77a?source=rss-c1edac92734b------2)
 - [Completing "Hacktoberfest 2020"](https://dev.to/mitul3737/completing-hacktoberfest-2020-1b70)
-- [My first open-source contribution at “Hacktoberfest 2020](https://shahriyarmitul3737.medium.com/my-first-open-source-contribution-at-hacktoberfest-2020-ad82d040a0ad?source=rss-c1edac92734b------2)
 <!-- BLOG-POST-LIST:END -->
 
 
