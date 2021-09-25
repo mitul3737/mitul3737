@@ -84,7 +84,8 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Python   3 hrs 45 mins   █████████████████████████   100.00 % 
+Python     3 hrs 45 mins   ████████████████████████░   96.11 % 
+Markdown   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 ```
 <!--END_SECTION:waka-->
 
