@@ -84,9 +84,8 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-YAML         1 hr 15 mins    ███████████████▓░░░░░░░░░   63.12 % 
-Other        39 mins         ████████▒░░░░░░░░░░░░░░░░   32.99 % 
-Docker       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Other        39 mins         ███████████████████▒░░░░░   77.73 % 
+YAML         11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.19 % 
 ```
 <!--END_SECTION:waka-->
 
