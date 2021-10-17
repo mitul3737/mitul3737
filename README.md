@@ -84,7 +84,7 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Python   48 mins         █████████████████████████   99.82 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
