@@ -74,10 +74,16 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Apply to Summer Research Internship Programs](https://www.youtube.com/watch?v=vzVnRxU7AJo)
 - [Python Basics](https://dev.to/mitul3737/python-basics-27nn)
-- [Creating Your First Auth0 Action](https://dev.to/mitul3737/creating-your-first-auth0-action-ehj)
-- [How I got selected into the national level of“ Cisco 2021 National Skill Competition Bangladesh :](https://mitul3737.medium.com/how-i-got-selected-into-the-national-level-of-cisco-2021-national-skill-competition-bangladesh-b2a31de7b77a?source=rss-c1edac92734b------2)
-- [Completing &quot;Hacktoberfest 2020&quot;](https://dev.to/mitul3737/completing-hacktoberfest-2020-1b70)
+- [Student Ambassador Opportunities, Perks and Time management in NIT Patna session by Mitul Shahriyar](https://www.youtube.com/watch?v=1HopwMWtVJo)
+- [Complete MIT Undergraduate courses offered by MIT professors and MIT OCW  | LWM](https://www.youtube.com/watch?v=YSFgqxT3YcQ)
+- [Roadmap to Software Engineering | Ambassador programs | Problem Solving&lpar;Leetcode&rpar; | Open Source](https://www.youtube.com/watch?v=vs5ZGhWBwYU)
+- [Predict Taxi Fare with a BigQuery ML Forecasting Model [GSP246] &lpar;Fastest&rpar;](https://www.youtube.com/watch?v=eyrrQgj58l8)
+- [Bracketology with Google Machine Learning [GSP461] &lpar;Fastest&rpar;](https://www.youtube.com/watch?v=FwcfVI_GfRI)
+- [Visualizing Billing Data with Google Data Studio [GSP622] &lpar;Fastest&rpar;](https://www.youtube.com/watch?v=g120eFFtLbs)
+- [Explore and Create Reports with Data Studio [GSP409] &lpar;Fastest&rpar;](https://www.youtube.com/watch?v=uK7ERKj75ug)
+- [Processing Data with Google Cloud Dataflow [GSP198] &lpar;Fastest&rpar;](https://www.youtube.com/watch?v=7hergZf3cK8)
 <!-- BLOG-POST-LIST:END -->
 
 
