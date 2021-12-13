@@ -10,5 +10,5 @@ jobs:
             - uses: actions/checkout@v2
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
-                max_post_count: "4"
-                feed_list: "https://dev.to/feed/mitul3737 , https://medium.com/feed/@mitul3737"
+                max_post_count: "10"
+                feed_list: "https://dev.to/feed/mitul3737 , https://mitul3737.medium.com/feed "
