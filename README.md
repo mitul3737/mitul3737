@@ -72,7 +72,7 @@
 
 
 
-### Blogs posts
+### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
 - [Apply to Summer Research Internship Programs](https://www.youtube.com/watch?v=vzVnRxU7AJo)
 - [Python Basics](https://dev.to/mitul3737/python-basics-27nn)
