@@ -74,6 +74,8 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Computing Basics for certifications](https://dev.to/mitul3737/cloud-computing-basics-for-certifications-l7j)
+- [Cloud Computing](https://dev.to/mitul3737/cloud-computing-81a)
 - [Apply to Summer Research Internship Programs](https://www.youtube.com/watch?v=vzVnRxU7AJo)
 - [Python Basics](https://dev.to/mitul3737/python-basics-27nn)
 - [Student Ambassador Opportunities, Perks and Time management in NIT Patna session by Mitul Shahriyar](https://www.youtube.com/watch?v=1HopwMWtVJo)
@@ -82,8 +84,6 @@
 - [Predict Taxi Fare with a BigQuery ML Forecasting Model [GSP246] &lpar;Fastest&rpar;](https://www.youtube.com/watch?v=eyrrQgj58l8)
 - [Bracketology with Google Machine Learning [GSP461] &lpar;Fastest&rpar;](https://www.youtube.com/watch?v=FwcfVI_GfRI)
 - [Visualizing Billing Data with Google Data Studio [GSP622] &lpar;Fastest&rpar;](https://www.youtube.com/watch?v=g120eFFtLbs)
-- [Explore and Create Reports with Data Studio [GSP409] &lpar;Fastest&rpar;](https://www.youtube.com/watch?v=uK7ERKj75ug)
-- [Processing Data with Google Cloud Dataflow [GSP198] &lpar;Fastest&rpar;](https://www.youtube.com/watch?v=7hergZf3cK8)
 <!-- BLOG-POST-LIST:END -->
 
 
