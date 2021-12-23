@@ -74,6 +74,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Learn how to push code through GitKraken from scratch](https://dev.to/mitul3737/learn-how-to-push-code-through-gitkraken-from-scratch-2hpf)
 - [Learn AWS for FREE from top 10 Resources](https://dev.to/mitul3737/learn-aws-for-free-from-top-10-resources-4fae)
 - [Cloud Computing Basics for certifications](https://dev.to/mitul3737/cloud-computing-basics-for-certifications-l7j)
 - [Cloud Computing](https://dev.to/mitul3737/cloud-computing-81a)
@@ -83,7 +84,6 @@
 - [Complete MIT Undergraduate courses offered by MIT professors and MIT OCW  | LWM](https://www.youtube.com/watch?v=YSFgqxT3YcQ)
 - [Roadmap to Software Engineering | Ambassador programs | Problem Solving&lpar;Leetcode&rpar; | Open Source](https://www.youtube.com/watch?v=vs5ZGhWBwYU)
 - [Predict Taxi Fare with a BigQuery ML Forecasting Model [GSP246] &lpar;Fastest&rpar;](https://www.youtube.com/watch?v=eyrrQgj58l8)
-- [Bracketology with Google Machine Learning [GSP461] &lpar;Fastest&rpar;](https://www.youtube.com/watch?v=FwcfVI_GfRI)
 <!-- BLOG-POST-LIST:END -->
 
 
