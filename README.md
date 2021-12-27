@@ -74,6 +74,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Use GitKraken Boards to work with your current GitHub Repository || LWM](https://www.youtube.com/watch?v=Ur-llL4LurI)
 - [This is how you can make your Laptop or PC faster](https://dev.to/mitul3737/this-is-how-you-can-make-your-laptop-or-pc-faster-5b96)
 - [no pyvenv.cfg file or, Python Interpreter error](https://dev.to/mitul3737/no-pyvenvcfg-file-or-python-interpreter-erro-2h19)
 - [Learn how to push code through GitKraken from scratch](https://dev.to/mitul3737/learn-how-to-push-code-through-gitkraken-from-scratch-2hpf)
@@ -83,7 +84,6 @@
 - [Apply to Summer Research Internship Programs](https://www.youtube.com/watch?v=vzVnRxU7AJo)
 - [Python Basics](https://dev.to/mitul3737/python-basics-27nn)
 - [Student Ambassador Opportunities, Perks and Time management in NIT Patna session by Mitul Shahriyar](https://www.youtube.com/watch?v=1HopwMWtVJo)
-- [Complete MIT Undergraduate courses offered by MIT professors and MIT OCW  | LWM](https://www.youtube.com/watch?v=YSFgqxT3YcQ)
 <!-- BLOG-POST-LIST:END -->
 
 
