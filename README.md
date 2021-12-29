@@ -74,6 +74,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [OOP in Python](https://dev.to/mitul3737/oop-in-python-562k)
 - [All about Microsoft Imagine Cup 2022](https://dev.to/mitul3737/all-about-microsoft-imagine-cup-2022-32kh)
 - [Use GitKraken Boards to work with your current GitHub Repository || LWM](https://www.youtube.com/watch?v=Ur-llL4LurI)
 - [This is how you can make your Laptop or PC faster](https://dev.to/mitul3737/this-is-how-you-can-make-your-laptop-or-pc-faster-5b96)
@@ -83,7 +84,6 @@
 - [Cloud Computing Basics for certifications](https://dev.to/mitul3737/cloud-computing-basics-for-certifications-l7j)
 - [Cloud Computing](https://dev.to/mitul3737/cloud-computing-81a)
 - [Apply to Summer Research Internship Programs](https://www.youtube.com/watch?v=vzVnRxU7AJo)
-- [Python Basics](https://dev.to/mitul3737/python-basics-27nn)
 <!-- BLOG-POST-LIST:END -->
 
 
