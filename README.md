@@ -74,6 +74,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [All about Microsoft Imagine Cup](https://www.youtube.com/watch?v=N73Mpo3GD44)
 - [Basics of Cloud Computing &lpar; Bangla&rpar; Devfest talk arranged by GDG Cloud Dhaka](https://www.youtube.com/watch?v=uUfbSjeLydk)
 - [OOP in Python](https://dev.to/mitul3737/oop-in-python-562k)
 - [All about Microsoft Imagine Cup 2022](https://dev.to/mitul3737/all-about-microsoft-imagine-cup-2022-32kh)
@@ -83,7 +84,6 @@
 - [Learn how to push code through GitKraken from scratch](https://dev.to/mitul3737/learn-how-to-push-code-through-gitkraken-from-scratch-2hpf)
 - [Learn AWS for FREE from top 10 Resources](https://dev.to/mitul3737/learn-aws-for-free-from-top-10-resources-4fae)
 - [Cloud Computing Basics for certifications](https://dev.to/mitul3737/cloud-computing-basics-for-certifications-l7j)
-- [Cloud Computing](https://dev.to/mitul3737/cloud-computing-81a)
 <!-- BLOG-POST-LIST:END -->
 
 
