@@ -45,14 +45,14 @@
 - [Auth0 Ambassador]( https://auth0.com/ambassador-program) – Auth0 Ambassadors are passionate community leaders and they learn Auth0 technologies and share these within his community
 - [Postman Student Leader](https://www.postman.com/company/student-program/#student-expert-program)– Postman Student Leaders are Postman Student experts and are passionate about API’s and builds API’s and share the knowledge within his community
 
-- Speaker at  [GDG Cloud Dhaka](https://gdg.community.dev/gdg-cloud-dhaka/)  for [Introduction to Cloud Computing, GCP and QWIKLABS](https://youtu.be/_jQH1MH6x5E))
+- Speaker at  [GDG Cloud Dhaka] at Devfest 2021 (https://gdg.community.dev/gdg-cloud-dhaka/)  for [Introduction to Cloud Computing, GCP and QWIKLABS](https://youtu.be/_jQH1MH6x5E))
 
 ### Honors & Awards 🏅
 - Became [QWIKLABS]( https://www.qwiklabs.com/) Hall of Fame for completing Google Cloud Labs through QWIKLABS 
 - Received [ Postman Student Expert](https://api.badgr.io/public/assertions/7sh5kY81RYGBPb1NHLFilw?identity__email=shahriyarmitul3737%40gmail.com) badge for completing labs  of Postman
 - Selected as a scholarship recipient for [KubeCon + CloudNativeCon](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/)
 - Became [Postman Student Expert](https://badgr.com/public/assertions/7sh5kY81RYGBPb1NHLFilw?identity__email=shahriyarmitul3737%40gmail.com) after completing training on Postman
-
+- Blog shared by Dev Community [Post](https://twitter.com/ThePracticalDev/status/1476840641338527753)
 
 
 
