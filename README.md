@@ -74,6 +74,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [GitLab 101](https://dev.to/mitul3737/gitlab-101-14go)
 - [All about Microsoft Imagine Cup](https://www.youtube.com/watch?v=N73Mpo3GD44)
 - [Basics of Cloud Computing &lpar; Bangla&rpar; Devfest talk arranged by GDG Cloud Dhaka](https://www.youtube.com/watch?v=uUfbSjeLydk)
 - [OOP in Python](https://dev.to/mitul3737/oop-in-python-562k)
@@ -83,7 +84,6 @@
 - [no pyvenv.cfg file or, Python Interpreter error](https://dev.to/mitul3737/no-pyvenvcfg-file-or-python-interpreter-erro-2h19)
 - [Learn how to push code through GitKraken from scratch](https://dev.to/mitul3737/learn-how-to-push-code-through-gitkraken-from-scratch-2hpf)
 - [Learn AWS for FREE from top 10 Resources](https://dev.to/mitul3737/learn-aws-for-free-from-top-10-resources-4fae)
-- [Cloud Computing Basics for certifications](https://dev.to/mitul3737/cloud-computing-basics-for-certifications-l7j)
 <!-- BLOG-POST-LIST:END -->
 
 
