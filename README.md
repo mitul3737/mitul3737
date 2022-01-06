@@ -74,16 +74,16 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Search Issues on GitLab](https://www.youtube.com/watch?v=CBEFTymWZqQ)
+- [Manage issues from GitLab issue Boards](https://www.youtube.com/watch?v=sTJhce720a8)
+- [Move an issue on GitLab](https://www.youtube.com/watch?v=gWwxOw39-y0)
+- [Create an issue on GitLab](https://www.youtube.com/watch?v=bVg8v8DtvfE)
+- [Create a Project in GitLab](https://www.youtube.com/watch?v=BKgEc4so1KE)
 - [GitLab 101](https://dev.to/mitul3737/gitlab-101-14go)
 - [All about Microsoft Imagine Cup](https://www.youtube.com/watch?v=N73Mpo3GD44)
 - [Basics of Cloud Computing &lpar; Bangla&rpar; Devfest talk arranged by GDG Cloud Dhaka](https://www.youtube.com/watch?v=uUfbSjeLydk)
 - [OOP in Python](https://dev.to/mitul3737/oop-in-python-562k)
 - [All about Microsoft Imagine Cup 2022](https://dev.to/mitul3737/all-about-microsoft-imagine-cup-2022-32kh)
-- [Use GitKraken Boards to work with your current GitHub Repository || LWM](https://www.youtube.com/watch?v=Ur-llL4LurI)
-- [This is how you can make your Laptop or PC faster](https://dev.to/mitul3737/this-is-how-you-can-make-your-laptop-or-pc-faster-5b96)
-- [no pyvenv.cfg file or, Python Interpreter error](https://dev.to/mitul3737/no-pyvenvcfg-file-or-python-interpreter-erro-2h19)
-- [Learn how to push code through GitKraken from scratch](https://dev.to/mitul3737/learn-how-to-push-code-through-gitkraken-from-scratch-2hpf)
-- [Learn AWS for FREE from top 10 Resources](https://dev.to/mitul3737/learn-aws-for-free-from-top-10-resources-4fae)
 <!-- BLOG-POST-LIST:END -->
 
 
