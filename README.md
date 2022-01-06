@@ -74,6 +74,8 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Create a Merge Request on GitLab](https://www.youtube.com/watch?v=3t-30ihCcA8)
+- [Manage your issues from GitKraken Boards](https://www.youtube.com/watch?v=_SnmFEyEBNc)
 - [Search Issues on GitLab](https://www.youtube.com/watch?v=CBEFTymWZqQ)
 - [Manage issues from GitLab issue Boards](https://www.youtube.com/watch?v=sTJhce720a8)
 - [Move an issue on GitLab](https://www.youtube.com/watch?v=gWwxOw39-y0)
@@ -82,8 +84,6 @@
 - [GitLab 101](https://dev.to/mitul3737/gitlab-101-14go)
 - [All about Microsoft Imagine Cup](https://www.youtube.com/watch?v=N73Mpo3GD44)
 - [Basics of Cloud Computing &lpar; Bangla&rpar; Devfest talk arranged by GDG Cloud Dhaka](https://www.youtube.com/watch?v=uUfbSjeLydk)
-- [OOP in Python](https://dev.to/mitul3737/oop-in-python-562k)
-- [All about Microsoft Imagine Cup 2022](https://dev.to/mitul3737/all-about-microsoft-imagine-cup-2022-32kh)
 <!-- BLOG-POST-LIST:END -->
 
 
