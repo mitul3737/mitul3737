@@ -74,6 +74,8 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [GitLab Certified Associate Lab 2](https://www.youtube.com/watch?v=OPFsh_lILUw)
+- [GitLab Certified Associate Lab 1](https://www.youtube.com/watch?v=hpo_c2-BFFQ)
 - [Create a Merge Request on GitLab](https://www.youtube.com/watch?v=3t-30ihCcA8)
 - [Manage your issues from GitKraken Boards](https://www.youtube.com/watch?v=_SnmFEyEBNc)
 - [Search Issues on GitLab](https://www.youtube.com/watch?v=CBEFTymWZqQ)
@@ -82,8 +84,6 @@
 - [Create an issue on GitLab](https://www.youtube.com/watch?v=bVg8v8DtvfE)
 - [Create a Project in GitLab](https://www.youtube.com/watch?v=BKgEc4so1KE)
 - [GitLab 101](https://dev.to/mitul3737/gitlab-101-14go)
-- [All about Microsoft Imagine Cup](https://www.youtube.com/watch?v=N73Mpo3GD44)
-- [Basics of Cloud Computing &lpar; Bangla&rpar; Devfest talk arranged by GDG Cloud Dhaka](https://www.youtube.com/watch?v=uUfbSjeLydk)
 <!-- BLOG-POST-LIST:END -->
 
 
