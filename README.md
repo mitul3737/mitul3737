@@ -74,16 +74,16 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [GitLab Certified Associate Lab 6](https://www.youtube.com/watch?v=wlEMS-KLQnM)
+- [GitLab Certified Associate Lab 5](https://www.youtube.com/watch?v=iV_qrPvdiJM)
+- [GitLab Certified Associate Lab 4](https://www.youtube.com/watch?v=cx3j1rdXv9c)
+- [GitLab Certified Associate Lab 3](https://www.youtube.com/watch?v=gUhH_Es69yY)
 - [GitLab Certified Associate Lab 2](https://www.youtube.com/watch?v=OPFsh_lILUw)
 - [GitLab Certified Associate Lab 1](https://www.youtube.com/watch?v=hpo_c2-BFFQ)
 - [Create a Merge Request on GitLab](https://www.youtube.com/watch?v=3t-30ihCcA8)
 - [Manage your issues from GitKraken Boards](https://www.youtube.com/watch?v=_SnmFEyEBNc)
 - [Search Issues on GitLab](https://www.youtube.com/watch?v=CBEFTymWZqQ)
 - [Manage issues from GitLab issue Boards](https://www.youtube.com/watch?v=sTJhce720a8)
-- [Move an issue on GitLab](https://www.youtube.com/watch?v=gWwxOw39-y0)
-- [Create an issue on GitLab](https://www.youtube.com/watch?v=bVg8v8DtvfE)
-- [Create a Project in GitLab](https://www.youtube.com/watch?v=BKgEc4so1KE)
-- [GitLab 101](https://dev.to/mitul3737/gitlab-101-14go)
 <!-- BLOG-POST-LIST:END -->
 
 
