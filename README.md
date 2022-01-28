@@ -74,6 +74,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Concepts](https://dev.to/mitul3737/cloud-concepts-100h)
 - [GitLab Certified Associate Exam](https://dev.to/mitul3737/gitlab-certified-associate-exam-1okd)
 - [GitLab Certified Associate Lab 6](https://www.youtube.com/watch?v=wlEMS-KLQnM)
 - [GitLab Certified Associate Lab 5](https://www.youtube.com/watch?v=iV_qrPvdiJM)
@@ -83,7 +84,6 @@
 - [GitLab Certified Associate Lab 1](https://www.youtube.com/watch?v=hpo_c2-BFFQ)
 - [Create a Merge Request on GitLab](https://www.youtube.com/watch?v=3t-30ihCcA8)
 - [Manage your issues from GitKraken Boards](https://www.youtube.com/watch?v=_SnmFEyEBNc)
-- [Search Issues on GitLab](https://www.youtube.com/watch?v=CBEFTymWZqQ)
 <!-- BLOG-POST-LIST:END -->
 
 
