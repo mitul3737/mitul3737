@@ -90,7 +90,8 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TOML       8 mins          ████████████████░░░░░░░░░   63.73 % 
+Markdown   4 mins          █████████░░░░░░░░░░░░░░░░   36.27 % 
 ```
 <!--END_SECTION:waka-->
 
