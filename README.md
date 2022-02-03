@@ -90,8 +90,8 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-TOML       8 mins          ████████████████░░░░░░░░░   63.73 % 
-Markdown   4 mins          █████████░░░░░░░░░░░░░░░░   36.27 % 
+TOML       20 mins         ████████████████████░░░░░   79.42 % 
+Markdown   5 mins          █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
 ```
 <!--END_SECTION:waka-->
 
