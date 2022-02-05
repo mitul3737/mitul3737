@@ -47,6 +47,10 @@
 
 - Speaker at  [GDG Cloud Dhaka] at Devfest 2021 (https://gdg.community.dev/gdg-cloud-dhaka/)  for [Introduction to Cloud Computing, GCP and QWIKLABS](https://youtu.be/_jQH1MH6x5E))
 
+### Open Source Contribution:
+- Maintainer at [CNCF Glossary Bengali Localization](https://github.com/cncf/glossary/tree/dev-bn) 
+- Maintainer at [Kubernetes Bengali Documentation](https://github.com/kubernetes/website)
+
 ### Honors & Awards 🏅
 - Became [QWIKLABS]( https://www.qwiklabs.com/) Hall of Fame for completing Google Cloud Labs through QWIKLABS 
 - Received [ Postman Student Expert](https://api.badgr.io/public/assertions/7sh5kY81RYGBPb1NHLFilw?identity__email=shahriyarmitul3737%40gmail.com) badge for completing labs  of Postman
