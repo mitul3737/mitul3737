@@ -81,13 +81,13 @@
 - [Create a Web App with Azure CLI](https://www.youtube.com/watch?v=tPM6Qkw5Lp4)
 - [Create a Virtual Machine &lpar;VM&rpar; using Azure Portal](https://www.youtube.com/watch?v=Rqbznr_X3qE)
 - [Install Hugo Server and run CNCF&#39;s Glossary project into your local host](https://www.youtube.com/watch?v=rIW0kSXSv-U)
+- [Cloud Concepts](https://dev.to/mitul3737/cloud-concepts-100h)
+- [GitLab Certified Associate Exam](https://dev.to/mitul3737/gitlab-certified-associate-exam-1okd)
 - [GitLab Certified Associate Lab 6](https://www.youtube.com/watch?v=wlEMS-KLQnM)
 - [GitLab Certified Associate Lab 5](https://www.youtube.com/watch?v=iV_qrPvdiJM)
 - [GitLab Certified Associate Lab 4](https://www.youtube.com/watch?v=cx3j1rdXv9c)
 - [GitLab Certified Associate Lab 3](https://www.youtube.com/watch?v=gUhH_Es69yY)
 - [GitLab Certified Associate Lab 2](https://www.youtube.com/watch?v=OPFsh_lILUw)
-- [GitLab Certified Associate Lab 1](https://www.youtube.com/watch?v=hpo_c2-BFFQ)
-- [Create a Merge Request on GitLab](https://www.youtube.com/watch?v=3t-30ihCcA8)
 <!-- BLOG-POST-LIST:END -->
 
 
