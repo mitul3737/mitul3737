@@ -78,6 +78,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Get CAUTH for Coursera](https://dev.to/mitul3737/get-cauth-for-coursera-2h4n)
 - [Create a Web App with Azure CLI](https://www.youtube.com/watch?v=tPM6Qkw5Lp4)
 - [Create a Virtual Machine &lpar;VM&rpar; using Azure Portal](https://www.youtube.com/watch?v=Rqbznr_X3qE)
 - [Install Hugo Server and run CNCF&#39;s Glossary project into your local host](https://www.youtube.com/watch?v=rIW0kSXSv-U)
@@ -87,7 +88,6 @@
 - [GitLab Certified Associate Lab 5](https://www.youtube.com/watch?v=iV_qrPvdiJM)
 - [GitLab Certified Associate Lab 4](https://www.youtube.com/watch?v=cx3j1rdXv9c)
 - [GitLab Certified Associate Lab 3](https://www.youtube.com/watch?v=gUhH_Es69yY)
-- [GitLab Certified Associate Lab 2](https://www.youtube.com/watch?v=OPFsh_lILUw)
 <!-- BLOG-POST-LIST:END -->
 
 
