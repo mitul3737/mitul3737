@@ -94,6 +94,8 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
+Total: 3 mins
+
 Markdown   3 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
