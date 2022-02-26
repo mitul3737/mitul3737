@@ -2,30 +2,29 @@
 <!-- Updating my readme for GitHub-->
 
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm MD. Shahriyar Al Mustakim Mitul</h1>
-<h3 align="center">A Community Leader and Open-Source Contributor 😁 </h3>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+
+</p>
 
 
-<a href="https://www.linkedin.com/in/md-shahriyar-al-mustakim-mitul-9084b31a0">
-  <img align="left" alt="Mitul's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/ShahriyarMitul">
-  <img align="left" alt="Mitul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="mailto:shahriyarmitul382@gmail.com ">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-<a href="https://discord.gg/yzegezxsd8">
-  <img align="left" alt="Learn With Mitul Community" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-
-<a href="https://stackoverflow.com/users/mitul-3737" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mitul-3737" height="22px" width="22px" /></a>
-
-<a href="https://medium.com/@shahriyarmitul3737" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@shahriyarmitul3737" height="22" width="22" /></a>
-
-<a href="https://www.youtube.com/channel/UCz5O3xDcr4Wxh-p2Zj-re_A " target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucz5o3xdcr4wxh-p2zj-re_a" height="22" width="22" /></a>
-
+<p  align="left">
+<a  href="https://twitter.com/ShahriyarMitul"  target="_blank">
+<img  align="center"  src="https://img.icons8.com/doodle/2x/twitter.png" height="40"  width="40"  /></a>
+<a  href="https://www.linkedin.com/in/md-shahriyar-al-mustakim-mitul-9084b31a0/"  target="_blank">
+<img  align="center"  src="https://img.icons8.com/doodle/2x/linkedin.png" height="40"  width="40"  /></a>
+<a href="mailto:shahriyarmitul3737@gmail.com" target="_blank">
+<img  align="center"  src="https://img.icons8.com/doodle/2x/gmail.png"  height="40"  width="40"  /></a>
+<a href="https://discord.gg/yzegezxsd8" target="_blank">
+<img  align="center"  src="https://img.icons8.com/doodle/2x/discord.png"  height="40"  width="40"  /></a>  
+<a href="https://www.youtube.com/c/MitulShahriyar" target="_blank">
+<img  align="center"  src="https://img.icons8.com/doodle/2x/youtube.png"  height="40"  width="40"  /></a>
+<a href="https://dev.to/mitul3737" target="_blank">
+<img  align="center"  src="https://img.icons8.com/windows/32/000000/dev.png"  height="40"  width="40"  /></a>
+    
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhishekhnaiidu.abhishekhnaiidu)
 <br />
@@ -37,7 +36,10 @@
 
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a fresher pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻  I am passionate about Data Science, ML , Ai, Kubernetes, Web Dev, Machine Learning, DevOps. </br>
+⛵ Open Source enthusiast | Contributor at [Kubernetes](https://github.com/kubernetes) and [CNCF](https://github.com/cncf)</br>
+✅ Approver and Reviewer for K8s Hindi Docs and CNCF Hindi Glossary</br>
+🌱 Learning Go, DevOps, AWS, GCP, Azure</br>
+😄 Pronouns: He/him/his</br>
 
 ### My Experiences 🙌
 - [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/) – AWS Community builders are very enthusiast about Cloud and they do experiment cloud features and do test some awesome features and enlightens their community
