@@ -81,15 +81,15 @@
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
 - [Get CAUTH for Coursera](https://dev.to/mitul3737/get-cauth-for-coursera-2h4n)
-- [Create a Web App with Azure CLI](https://www.youtube.com/watch?v=tPM6Qkw5Lp4)
-- [Create a Virtual Machine &lpar;VM&rpar; using Azure Portal](https://www.youtube.com/watch?v=Rqbznr_X3qE)
-- [Install Hugo Server and run CNCF&#39;s Glossary project into your local host](https://www.youtube.com/watch?v=rIW0kSXSv-U)
 - [Cloud Concepts](https://dev.to/mitul3737/cloud-concepts-100h)
 - [GitLab Certified Associate Exam](https://dev.to/mitul3737/gitlab-certified-associate-exam-1okd)
-- [GitLab Certified Associate Lab 6](https://www.youtube.com/watch?v=wlEMS-KLQnM)
-- [GitLab Certified Associate Lab 5](https://www.youtube.com/watch?v=iV_qrPvdiJM)
-- [GitLab Certified Associate Lab 4](https://www.youtube.com/watch?v=cx3j1rdXv9c)
-- [GitLab Certified Associate Lab 3](https://www.youtube.com/watch?v=gUhH_Es69yY)
+- [GitLab 101](https://dev.to/mitul3737/gitlab-101-14go)
+- [OOP in Python](https://dev.to/mitul3737/oop-in-python-562k)
+- [All about Microsoft Imagine Cup 2022](https://dev.to/mitul3737/all-about-microsoft-imagine-cup-2022-32kh)
+- [This is how you can make your Laptop or PC faster](https://dev.to/mitul3737/this-is-how-you-can-make-your-laptop-or-pc-faster-5b96)
+- [no pyvenv.cfg file or, Python Interpreter error](https://dev.to/mitul3737/no-pyvenvcfg-file-or-python-interpreter-erro-2h19)
+- [Learn how to push code through GitKraken from scratch](https://dev.to/mitul3737/learn-how-to-push-code-through-gitkraken-from-scratch-2hpf)
+- [Learn AWS for FREE from top 10 Resources](https://dev.to/mitul3737/learn-aws-for-free-from-top-10-resources-4fae)
 <!-- BLOG-POST-LIST:END -->
 
 
