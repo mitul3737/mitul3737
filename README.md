@@ -50,7 +50,7 @@
 - Speaker at  [GDG Cloud Dhaka] at Devfest 2021 (https://gdg.community.dev/gdg-cloud-dhaka/)  for [Introduction to Cloud Computing, GCP and QWIKLABS](https://youtu.be/_jQH1MH6x5E))
 
 ### Open Source Contribution:
-- Maintainer at [CNCF Glossary Bengali Localization](https://github.com/cncf/glossary/tree/dev-bn) 
+- Maintainer at [CNCF Glossary Bengali Localization](https://github.com/cncf/glossary/blob/86b606003a7391d30e3c9d57c9e53cbcc22467d8/.github/settings.yml#L110) 
 - Maintainer at [Kubernetes Bengali Documentation](https://github.com/kubernetes/website)
 
 ### Honors & Awards 🏅
