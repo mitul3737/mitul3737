@@ -80,6 +80,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Elastic Load Balancing &amp; Auto Scaling Groups](https://dev.to/mitul3737/elastic-load-balancing-auto-scaling-groups-4cl)
 - [Amazon EC2](https://dev.to/mitul3737/amazon-ec2-1c54)
 - [Get CAUTH for Coursera](https://dev.to/mitul3737/get-cauth-for-coursera-2h4n)
 - [Create a Web App with Azure CLI](https://www.youtube.com/watch?v=tPM6Qkw5Lp4)
@@ -89,7 +90,6 @@
 - [GitLab Certified Associate Exam](https://dev.to/mitul3737/gitlab-certified-associate-exam-1okd)
 - [GitLab Certified Associate Lab 6](https://www.youtube.com/watch?v=wlEMS-KLQnM)
 - [GitLab Certified Associate Lab 5](https://www.youtube.com/watch?v=iV_qrPvdiJM)
-- [GitLab Certified Associate Lab 4](https://www.youtube.com/watch?v=cx3j1rdXv9c)
 <!-- BLOG-POST-LIST:END -->
 
 
