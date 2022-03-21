@@ -80,7 +80,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
-- [Big O Notation](https://dev.to/mitul3737/big-o-notation-284d)
+- [Big O Notation &lpar;worst case&rpar;](https://dev.to/mitul3737/big-o-notation-284d)
 - [Elastic Load Balancing &amp; Auto Scaling Groups](https://dev.to/mitul3737/elastic-load-balancing-auto-scaling-groups-4cl)
 - [Amazon EC2](https://dev.to/mitul3737/amazon-ec2-1c54)
 - [Get CAUTH for Coursera](https://dev.to/mitul3737/get-cauth-for-coursera-2h4n)
