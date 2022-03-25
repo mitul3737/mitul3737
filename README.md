@@ -51,7 +51,7 @@
 
 ### Open Source Contribution:
 - Maintainer at [CNCF Glossary Bengali Localization](https://github.com/cncf/glossary/blob/86b606003a7391d30e3c9d57c9e53cbcc22467d8/.github/settings.yml#L110) 
-- Maintainer at [Kubernetes Bengali Documentation](https://github.com/kubernetes/website)
+- Maintainer at [Kubernetes Bengali Documentation](https://github.com/kubernetes/website/blob/f376f3be0ca1636be41c179ebfc2f78568751beb/OWNERS_ALIASES#L12)
 
 ### Honors & Awards 🏅
 - Became [QWIKLABS]( https://www.qwiklabs.com/) Hall of Fame for completing Google Cloud Labs through QWIKLABS 
