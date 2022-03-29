@@ -80,6 +80,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Google Cloud Fundamentals Part 1](https://dev.to/mitul3737/google-cloud-fundamentals-part-1-49bp)
 - [Linked List Part 1](https://dev.to/mitul3737/linked-list-part-1-38ag)
 - [Big O Notation &lpar;worst case&rpar;](https://dev.to/mitul3737/big-o-notation-284d)
 - [Elastic Load Balancing &amp; Auto Scaling Groups](https://dev.to/mitul3737/elastic-load-balancing-auto-scaling-groups-4cl)
@@ -89,7 +90,6 @@
 - [Create a Virtual Machine &lpar;VM&rpar; using Azure Portal](https://www.youtube.com/watch?v=Rqbznr_X3qE)
 - [Install Hugo Server and run CNCF&#39;s Glossary project into your local host](https://www.youtube.com/watch?v=rIW0kSXSv-U)
 - [Cloud Concepts](https://dev.to/mitul3737/cloud-concepts-100h)
-- [GitLab Certified Associate Exam](https://dev.to/mitul3737/gitlab-certified-associate-exam-1okd)
 <!-- BLOG-POST-LIST:END -->
 
 
