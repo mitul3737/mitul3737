@@ -80,6 +80,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Google Cloud Fundamentals Part 3](https://dev.to/mitul3737/google-cloud-fundamentals-part-3-35le)
 - [Google Cloud Platform Part 2](https://dev.to/mitul3737/google-cloud-platform-part-2-3o2m)
 - [Google Cloud Fundamentals Part 1](https://dev.to/mitul3737/google-cloud-fundamentals-part-1-49bp)
 - [Linked List Part 1](https://dev.to/mitul3737/linked-list-part-1-38ag)
@@ -89,7 +90,6 @@
 - [Get CAUTH for Coursera](https://dev.to/mitul3737/get-cauth-for-coursera-2h4n)
 - [Create a Web App with Azure CLI](https://www.youtube.com/watch?v=tPM6Qkw5Lp4)
 - [Create a Virtual Machine &lpar;VM&rpar; using Azure Portal](https://www.youtube.com/watch?v=Rqbznr_X3qE)
-- [Install Hugo Server and run CNCF&#39;s Glossary project into your local host](https://www.youtube.com/watch?v=rIW0kSXSv-U)
 <!-- BLOG-POST-LIST:END -->
 
 
