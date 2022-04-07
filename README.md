@@ -42,7 +42,8 @@
 😄 Pronouns: He/him/his</br>
 
 ### My Experiences 🙌
-- [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/) – AWS Community builders are very enthusiast about Cloud and they do experiment cloud features and do test some awesome features and enlightens their community
+- [GitHub Campus Expert](https://githubcampus.expert/experts) . Campus Experts are student leaders that strive to build diverse and inclusive spaces to learn skills, share their experiences, and build projects together. They can be found across the globe leading in-person and online conferences, meetups, and hackathons, and maintaining open source projects.
+- [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Mitul&cb-cards.q_operator=AND) – AWS Community builders are very enthusiast about Cloud and they do experiment cloud features and do test some awesome features and enlightens their community
 - [Microsoft Learn Student Ambassador]( https://studentambassadors.microsoft.com/en-US/profile/94378 ) - Conducted workshops & webinars on Azure, GitHub & Git etc.
 - [Auth0 Ambassador]( https://auth0.com/ambassador-program) – Auth0 Ambassadors are passionate community leaders and they learn Auth0 technologies and share these within his community
 - [Postman Student Leader](https://www.postman.com/company/student-program/#student-expert-program)– Postman Student Leaders are Postman Student experts and are passionate about API’s and builds API’s and share the knowledge within his community
