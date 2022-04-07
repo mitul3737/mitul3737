@@ -81,6 +81,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Contribute to the CNCF Glossary Project | 2022](https://www.youtube.com/watch?v=1pp4qVYJIgI)
 - [Google Cloud Fundamentals Part 3](https://dev.to/mitul3737/google-cloud-fundamentals-part-3-35le)
 - [Google Cloud Platform Part 2](https://dev.to/mitul3737/google-cloud-platform-part-2-3o2m)
 - [Google Cloud Fundamentals Part 1](https://dev.to/mitul3737/google-cloud-fundamentals-part-1-49bp)
@@ -90,7 +91,6 @@
 - [Amazon EC2](https://dev.to/mitul3737/amazon-ec2-1c54)
 - [Get CAUTH for Coursera](https://dev.to/mitul3737/get-cauth-for-coursera-2h4n)
 - [Create a Web App with Azure CLI](https://www.youtube.com/watch?v=tPM6Qkw5Lp4)
-- [Create a Virtual Machine &lpar;VM&rpar; using Azure Portal](https://www.youtube.com/watch?v=Rqbznr_X3qE)
 <!-- BLOG-POST-LIST:END -->
 
 
