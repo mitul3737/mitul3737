@@ -81,7 +81,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Campus Expert Acceptance Video | 2022](https://www.youtube.com/watch?v=JHG_pvIBeO4)
+- [GitHub Campus Experts Accepted Video | 2022](https://www.youtube.com/watch?v=JHG_pvIBeO4)
 - [Contribute to the CNCF Glossary Project | 2022](https://www.youtube.com/watch?v=1pp4qVYJIgI)
 - [Google Cloud Fundamentals Part 3](https://dev.to/mitul3737/google-cloud-fundamentals-part-3-35le)
 - [Google Cloud Platform Part 2](https://dev.to/mitul3737/google-cloud-platform-part-2-3o2m)
