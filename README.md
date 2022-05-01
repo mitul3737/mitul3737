@@ -81,6 +81,9 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Amazon EC2 Basics](https://dev.to/mitul3737/amazon-ec2-basics-12k)
+- [Amazon S3 basics](https://dev.to/mitul3737/amazon-s3-basics-20a4)
+- [Amazon S3](https://dev.to/mitul3737/amazon-s3-5bab)
 - [GitHub Campus Experts Accepted Video | 2022](https://www.youtube.com/watch?v=JHG_pvIBeO4)
 - [Contribute to the CNCF Glossary Project | 2022](https://www.youtube.com/watch?v=1pp4qVYJIgI)
 - [Google Cloud Fundamentals Part 3](https://dev.to/mitul3737/google-cloud-fundamentals-part-3-35le)
@@ -88,9 +91,6 @@
 - [Google Cloud Fundamentals Part 1](https://dev.to/mitul3737/google-cloud-fundamentals-part-1-49bp)
 - [Linked List Part 1](https://dev.to/mitul3737/linked-list-part-1-38ag)
 - [Big O Notation &lpar;worst case&rpar;](https://dev.to/mitul3737/big-o-notation-284d)
-- [Elastic Load Balancing &amp; Auto Scaling Groups](https://dev.to/mitul3737/elastic-load-balancing-auto-scaling-groups-4cl)
-- [Amazon EC2](https://dev.to/mitul3737/amazon-ec2-1c54)
-- [Get CAUTH for Coursera](https://dev.to/mitul3737/get-cauth-for-coursera-2h4n)
 <!-- BLOG-POST-LIST:END -->
 
 
