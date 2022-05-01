@@ -81,6 +81,8 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Campus Experts Accepted Video | 2022](https://www.youtube.com/watch?v=JHG_pvIBeO4)
+- [Contribute to the CNCF Glossary Project | 2022](https://www.youtube.com/watch?v=1pp4qVYJIgI)
 - [Google Cloud Fundamentals Part 3](https://dev.to/mitul3737/google-cloud-fundamentals-part-3-35le)
 - [Google Cloud Platform Part 2](https://dev.to/mitul3737/google-cloud-platform-part-2-3o2m)
 - [Google Cloud Fundamentals Part 1](https://dev.to/mitul3737/google-cloud-fundamentals-part-1-49bp)
@@ -89,8 +91,6 @@
 - [Elastic Load Balancing &amp; Auto Scaling Groups](https://dev.to/mitul3737/elastic-load-balancing-auto-scaling-groups-4cl)
 - [Amazon EC2](https://dev.to/mitul3737/amazon-ec2-1c54)
 - [Get CAUTH for Coursera](https://dev.to/mitul3737/get-cauth-for-coursera-2h4n)
-- [Cloud Concepts](https://dev.to/mitul3737/cloud-concepts-100h)
-- [GitLab Certified Associate Exam](https://dev.to/mitul3737/gitlab-certified-associate-exam-1okd)
 <!-- BLOG-POST-LIST:END -->
 
 
