@@ -79,6 +79,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [AWS Databases &amp; Analytics](https://dev.to/mitul3737/aws-databases-analytics-5egn)
 - [Creating a replica for the bucket | Amazon S3](https://www.youtube.com/watch?v=Yax-Eje_KS0)
 - [Creating a Server Access Logging with a Bucket | Amazon S3](https://www.youtube.com/watch?v=ndWxebkAkfw)
 - [Creating a Static Website | Amazon S3](https://www.youtube.com/watch?v=qE0VrdN9PS4)
@@ -88,7 +89,6 @@
 - [Amazon S3](https://dev.to/mitul3737/amazon-s3-5bab)
 - [GitHub Campus Experts Accepted Video | 2022](https://www.youtube.com/watch?v=JHG_pvIBeO4)
 - [Contribute to the CNCF Glossary Project | 2022](https://www.youtube.com/watch?v=1pp4qVYJIgI)
-- [Google Cloud Fundamentals Part 3](https://dev.to/mitul3737/google-cloud-fundamentals-part-3-35le)
 <!-- BLOG-POST-LIST:END -->
 
 
