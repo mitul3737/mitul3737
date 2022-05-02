@@ -81,16 +81,16 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
-- [Creating a replica for the bucket | Amazon S3](https://www.youtube.com/watch?v=Yax-Eje_KS0)
-- [Creating a Server Access Logging with a Bucket | Amazon S3](https://www.youtube.com/watch?v=ndWxebkAkfw)
-- [Creating a Static Website | Amazon S3](https://www.youtube.com/watch?v=qE0VrdN9PS4)
-- [Create a public Bucket with Versioning | Amazon S3](https://www.youtube.com/watch?v=H0Qw9oRzEag)
 - [Amazon EC2 Basics](https://dev.to/mitul3737/amazon-ec2-basics-12k)
 - [Amazon S3 basics](https://dev.to/mitul3737/amazon-s3-basics-20a4)
 - [Amazon S3](https://dev.to/mitul3737/amazon-s3-5bab)
-- [GitHub Campus Experts Accepted Video | 2022](https://www.youtube.com/watch?v=JHG_pvIBeO4)
-- [Contribute to the CNCF Glossary Project | 2022](https://www.youtube.com/watch?v=1pp4qVYJIgI)
 - [Google Cloud Fundamentals Part 3](https://dev.to/mitul3737/google-cloud-fundamentals-part-3-35le)
+- [Google Cloud Platform Part 2](https://dev.to/mitul3737/google-cloud-platform-part-2-3o2m)
+- [Google Cloud Fundamentals Part 1](https://dev.to/mitul3737/google-cloud-fundamentals-part-1-49bp)
+- [Linked List Part 1](https://dev.to/mitul3737/linked-list-part-1-38ag)
+- [Big O Notation &lpar;worst case&rpar;](https://dev.to/mitul3737/big-o-notation-284d)
+- [Elastic Load Balancing &amp; Auto Scaling Groups](https://dev.to/mitul3737/elastic-load-balancing-auto-scaling-groups-4cl)
+- [Amazon EC2](https://dev.to/mitul3737/amazon-ec2-1c54)
 <!-- BLOG-POST-LIST:END -->
 
 
