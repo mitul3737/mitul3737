@@ -11,22 +11,20 @@
 </p>
 
 
-<p  align="left">
-<a  href="https://twitter.com/ShahriyarMitul"  target="_blank">
-<img  align="center"  src="https://img.icons8.com/doodle/2x/twitter.png" height="40"  width="40"  /></a>
-<a  href="https://www.linkedin.com/in/md-shahriyar-al-mustakim-mitul-9084b31a0/"  target="_blank">
-<img  align="center"  src="https://img.icons8.com/doodle/2x/linkedin.png" height="40"  width="40"  /></a>
-<a href="mailto:shahriyarmitul3737@gmail.com" target="_blank">
-<img  align="center"  src="https://img.icons8.com/doodle/2x/gmail.png"  height="40"  width="40"  /></a>
-<a href="https://discord.gg/yzegezxsd8" target="_blank">
-<img  align="center"  src="https://img.icons8.com/doodle/2x/discord.png"  height="40"  width="40"  /></a>  
-<a href="https://www.youtube.com/c/MitulShahriyar" target="_blank">
-<img  align="center"  src="https://img.icons8.com/doodle/2x/youtube.png"  height="40"  width="40"  /></a>
-<a href="https://dev.to/mitul3737" target="_blank">
-<img  align="center"  src="https://img.icons8.com/windows/32/000000/dev.png"  height="40"  width="40"  /></a>
-    
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhishekhnaiidu.abhishekhnaiidu)
+
+<p align="left">
+<a href="https://twitter.com/ShahriyarMitul" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/twitter.png" title = "Twitter" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/md-shahriyar-al-mustakim-mitul-9084b31a0" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+<a href="https://www.instagram.com/shahriyarmitul/" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/instagram.png" alt="" height="30" /></a>
+<a href="https://www.twitch.tv/mitul3737" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/twitch.png" alt="" height="30" /></a>
+<a href= "https://www.youtube.com/c/MitulShahriyar" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/YouTube.png" alt="" height="30" /></a>
+<a href="https://dev.to/mitul3737" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/Devto.png" alt="" height="30" /></a>
+<a href="https://www.facebook.com/shahriyaralmustakim.mitul/" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/facebook.png" alt="" height="30" /></a>
+</p>
+
+ 
+![](https://visitor-badge.glitch.me/badge?page_id=mitul3737.mitul3737)
 <br />
 
 <!--For adding Gif
