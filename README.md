@@ -83,12 +83,12 @@
 - [AWS Cloud Integration](https://dev.to/mitul3737/aws-cloud-integration-a77)
 - [AWS Global Infrastructure](https://dev.to/mitul3737/aws-global-infrastructure-3nb5)
 - [Deploying and managing Infrastructure at Scale](https://dev.to/mitul3737/deploying-and-managing-infrastructure-at-scale-1784)
+- [Creating an instance using Amazon Lightsail | Amazon Lightsail](https://www.youtube.com/watch?v=aQDtOzxb3ck)
+- [Creating  a function from Amazon Lambda | Amazon Lambda](https://www.youtube.com/watch?v=UOjW8enalSQ)
 - [Amazon ECS, Lambda, Fargate](https://dev.to/mitul3737/amazon-ecs-lambda-fargate-4dgc)
 - [What is Serverless?](https://dev.to/mitul3737/what-is-serverless-6n7)
-- [AWS Databases &amp; Analytics](https://dev.to/mitul3737/aws-databases-analytics-5egn)
-- [Amazon EC2 Basics](https://dev.to/mitul3737/amazon-ec2-basics-12k)
-- [Amazon S3 basics](https://dev.to/mitul3737/amazon-s3-basics-20a4)
-- [Amazon S3](https://dev.to/mitul3737/amazon-s3-5bab)
+- [Creating a DynamoDB database | Amazon Database](https://www.youtube.com/watch?v=bnj3OXxKkj4)
+- [Creating an RDS database | Amazon Database](https://www.youtube.com/watch?v=IeXCWv14KcM)
 <!-- BLOG-POST-LIST:END -->
 
 
