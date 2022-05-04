@@ -79,6 +79,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [AWS Cloud Integration](https://dev.to/mitul3737/aws-cloud-integration-a77)
 - [AWS Global Infrastructure](https://dev.to/mitul3737/aws-global-infrastructure-3nb5)
 - [Deploying and managing Infrastructure at Scale](https://dev.to/mitul3737/deploying-and-managing-infrastructure-at-scale-1784)
 - [Amazon ECS, Lambda, Fargate](https://dev.to/mitul3737/amazon-ecs-lambda-fargate-4dgc)
@@ -88,7 +89,6 @@
 - [Amazon S3 basics](https://dev.to/mitul3737/amazon-s3-basics-20a4)
 - [Amazon S3](https://dev.to/mitul3737/amazon-s3-5bab)
 - [Google Cloud Fundamentals Part 3](https://dev.to/mitul3737/google-cloud-fundamentals-part-3-35le)
-- [Google Cloud Platform Part 2](https://dev.to/mitul3737/google-cloud-platform-part-2-3o2m)
 <!-- BLOG-POST-LIST:END -->
 
 
