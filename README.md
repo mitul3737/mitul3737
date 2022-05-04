@@ -79,6 +79,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Deploying and managing Infrastructure at Scale](https://dev.to/mitul3737/deploying-and-managing-infrastructure-at-scale-1784)
 - [Creating an instance using Amazon Lightsail | Amazon Lightsail](https://www.youtube.com/watch?v=aQDtOzxb3ck)
 - [Creating  a function from Amazon Lambda | Amazon Lambda](https://www.youtube.com/watch?v=UOjW8enalSQ)
 - [Amazon ECS, Lambda, Fargate](https://dev.to/mitul3737/amazon-ecs-lambda-fargate-4dgc)
@@ -88,7 +89,6 @@
 - [AWS Databases &amp; Analytics](https://dev.to/mitul3737/aws-databases-analytics-5egn)
 - [Creating a replica for the bucket | Amazon S3](https://www.youtube.com/watch?v=Yax-Eje_KS0)
 - [Creating a Server Access Logging with a Bucket | Amazon S3](https://www.youtube.com/watch?v=ndWxebkAkfw)
-- [Creating a Static Website | Amazon S3](https://www.youtube.com/watch?v=qE0VrdN9PS4)
 <!-- BLOG-POST-LIST:END -->
 
 
