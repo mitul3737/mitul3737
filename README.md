@@ -79,6 +79,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [AWS VPC &amp; Networking](https://dev.to/mitul3737/aws-vpc-networking-1k8b)
 - [AWS Cloud Monitoring](https://dev.to/mitul3737/aws-cloud-monitoring-3ji7)
 - [AWS Cloud Integration](https://dev.to/mitul3737/aws-cloud-integration-a77)
 - [AWS Global Infrastructure](https://dev.to/mitul3737/aws-global-infrastructure-3nb5)
@@ -88,7 +89,6 @@
 - [Amazon ECS, Lambda, Fargate](https://dev.to/mitul3737/amazon-ecs-lambda-fargate-4dgc)
 - [What is Serverless?](https://dev.to/mitul3737/what-is-serverless-6n7)
 - [Creating a DynamoDB database | Amazon Database](https://www.youtube.com/watch?v=bnj3OXxKkj4)
-- [Creating an RDS database | Amazon Database](https://www.youtube.com/watch?v=IeXCWv14KcM)
 <!-- BLOG-POST-LIST:END -->
 
 
