@@ -79,6 +79,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [AWS Global Infrastructure](https://dev.to/mitul3737/aws-global-infrastructure-3nb5)
 - [Deploying and managing Infrastructure at Scale](https://dev.to/mitul3737/deploying-and-managing-infrastructure-at-scale-1784)
 - [Amazon ECS, Lambda, Fargate](https://dev.to/mitul3737/amazon-ecs-lambda-fargate-4dgc)
 - [What is Serverless?](https://dev.to/mitul3737/what-is-serverless-6n7)
@@ -88,7 +89,6 @@
 - [Amazon S3](https://dev.to/mitul3737/amazon-s3-5bab)
 - [Google Cloud Fundamentals Part 3](https://dev.to/mitul3737/google-cloud-fundamentals-part-3-35le)
 - [Google Cloud Platform Part 2](https://dev.to/mitul3737/google-cloud-platform-part-2-3o2m)
-- [Google Cloud Fundamentals Part 1](https://dev.to/mitul3737/google-cloud-fundamentals-part-1-49bp)
 <!-- BLOG-POST-LIST:END -->
 
 
