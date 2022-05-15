@@ -79,6 +79,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Linked List Part 2](https://dev.to/mitul3737/linked-list-part-2-24ih)
 - [How to open Command Prompt in your desired location within a second](https://dev.to/mitul3737/how-to-open-command-prompt-in-your-desired-location-within-a-second-2fk)
 - [Create your signature for Gmail | LWM Community](https://www.youtube.com/watch?v=r31mT4E3hSk)
 - [Using AWS CodeStar  | Amazon Web Services](https://www.youtube.com/watch?v=k_6tx4Zf0Ng)
@@ -88,7 +89,6 @@
 - [AWS Cloud Integration](https://dev.to/mitul3737/aws-cloud-integration-a77)
 - [AWS Global Infrastructure](https://dev.to/mitul3737/aws-global-infrastructure-3nb5)
 - [Deploying and managing Infrastructure at Scale](https://dev.to/mitul3737/deploying-and-managing-infrastructure-at-scale-1784)
-- [Creating an instance using Amazon Lightsail | Amazon Lightsail](https://www.youtube.com/watch?v=aQDtOzxb3ck)
 <!-- BLOG-POST-LIST:END -->
 
 
