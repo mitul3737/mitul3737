@@ -79,6 +79,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [How to install any software in Ubuntu](https://dev.to/mitul3737/how-to-install-any-software-in-ubuntu-1f5n)
 - [All about Docker Part 1](https://dev.to/mitul3737/all-about-docker-part-1-26ee)
 - [Linked List Part 2](https://dev.to/mitul3737/linked-list-part-2-24ih)
 - [How to open Command Prompt in your desired location within a second](https://dev.to/mitul3737/how-to-open-command-prompt-in-your-desired-location-within-a-second-2fk)
@@ -88,7 +89,6 @@
 - [AWS VPC &amp; Networking](https://dev.to/mitul3737/aws-vpc-networking-1k8b)
 - [AWS Cloud Monitoring](https://dev.to/mitul3737/aws-cloud-monitoring-3ji7)
 - [AWS Cloud Integration](https://dev.to/mitul3737/aws-cloud-integration-a77)
-- [AWS Global Infrastructure](https://dev.to/mitul3737/aws-global-infrastructure-3nb5)
 <!-- BLOG-POST-LIST:END -->
 
 
