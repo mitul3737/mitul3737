@@ -79,6 +79,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Doubly Linked List](https://dev.to/mitul3737/doubly-linked-list-igo)
 - [Install Docker in Ubuntu](https://dev.to/mitul3737/install-docker-in-ubuntu-mj1)
 - [How to install any software in Ubuntu](https://dev.to/mitul3737/how-to-install-any-software-in-ubuntu-1f5n)
 - [Installing Docker on Windows](https://dev.to/mitul3737/all-about-docker-part-1-26ee)
@@ -88,7 +89,6 @@
 - [Using AWS CodeStar  | Amazon Web Services](https://www.youtube.com/watch?v=k_6tx4Zf0Ng)
 - [Create a stack using CloudFormation | Amazon Web Services](https://www.youtube.com/watch?v=3PUR6hMcTD8)
 - [AWS VPC &amp; Networking](https://dev.to/mitul3737/aws-vpc-networking-1k8b)
-- [AWS Cloud Monitoring](https://dev.to/mitul3737/aws-cloud-monitoring-3ji7)
 <!-- BLOG-POST-LIST:END -->
 
 
