@@ -79,7 +79,8 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
-- [Stack](https://dev.to/mitul3737/stack-39j)
+- [Data Structure &amp; Algorithm: Queues](https://dev.to/mitul3737/data-structure-algorithm-queues-1091)
+- [Data Structure &amp; Algorithms: Stack](https://dev.to/mitul3737/stack-39j)
 - [VS Code hacks](https://dev.to/mitul3737/vs-code-hacks-4156)
 - [Doubly Linked List](https://dev.to/mitul3737/doubly-linked-list-igo)
 - [Install Docker in Ubuntu](https://dev.to/mitul3737/install-docker-in-ubuntu-mj1)
@@ -88,7 +89,6 @@
 - [Linked List Part 2](https://dev.to/mitul3737/linked-list-part-2-24ih)
 - [How to open Command Prompt in your desired location within a second](https://dev.to/mitul3737/how-to-open-command-prompt-in-your-desired-location-within-a-second-2fk)
 - [Create your signature for Gmail | LWM Community](https://www.youtube.com/watch?v=r31mT4E3hSk)
-- [Using AWS CodeStar  | Amazon Web Services](https://www.youtube.com/watch?v=k_6tx4Zf0Ng)
 <!-- BLOG-POST-LIST:END -->
 
 
