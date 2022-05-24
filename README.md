@@ -79,6 +79,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Stack](https://dev.to/mitul3737/stack-39j)
 - [VS Code hacks](https://dev.to/mitul3737/vs-code-hacks-4156)
 - [Doubly Linked List](https://dev.to/mitul3737/doubly-linked-list-igo)
 - [Install Docker in Ubuntu](https://dev.to/mitul3737/install-docker-in-ubuntu-mj1)
@@ -88,7 +89,6 @@
 - [How to open Command Prompt in your desired location within a second](https://dev.to/mitul3737/how-to-open-command-prompt-in-your-desired-location-within-a-second-2fk)
 - [Create your signature for Gmail | LWM Community](https://www.youtube.com/watch?v=r31mT4E3hSk)
 - [Using AWS CodeStar  | Amazon Web Services](https://www.youtube.com/watch?v=k_6tx4Zf0Ng)
-- [Create a stack using CloudFormation | Amazon Web Services](https://www.youtube.com/watch?v=3PUR6hMcTD8)
 <!-- BLOG-POST-LIST:END -->
 
 
