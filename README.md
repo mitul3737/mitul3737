@@ -79,6 +79,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Data Structure &amp; Algorithms: Trees](https://dev.to/mitul3737/data-structure-algorithms-trees-49mi)
 - [Solving /bin/sh: 1: python: not found in VS Code](https://dev.to/mitul3737/solving-binsh-1-python-not-found-in-vs-code-4kbn)
 - [Data Structure &amp; Algorithm: Queues](https://dev.to/mitul3737/data-structure-algorithm-queues-1091)
 - [Data Structure &amp; Algorithms: Stack](https://dev.to/mitul3737/stack-39j)
@@ -88,7 +89,6 @@
 - [How to install any software in Ubuntu](https://dev.to/mitul3737/how-to-install-any-software-in-ubuntu-1f5n)
 - [Installing Docker on Windows](https://dev.to/mitul3737/all-about-docker-part-1-26ee)
 - [Linked List Part 2](https://dev.to/mitul3737/linked-list-part-2-24ih)
-- [How to open Command Prompt in your desired location within a second](https://dev.to/mitul3737/how-to-open-command-prompt-in-your-desired-location-within-a-second-2fk)
 <!-- BLOG-POST-LIST:END -->
 
 
