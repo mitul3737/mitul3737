@@ -79,6 +79,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Starting an nginx Web server on Ubuntu](https://dev.to/mitul3737/starting-an-nginx-web-server-on-ubuntu-3mjc)
 - [0 to Advance of DevOps: Part 1](https://dev.to/mitul3737/0-to-advance-of-devops-part-1-o1k)
 - [Data Structure &amp; Algorithms: Trees](https://dev.to/mitul3737/data-structure-algorithms-trees-49mi)
 - [/bin/sh: 1: python: not found in VS Code [Solved]](https://dev.to/mitul3737/solving-binsh-1-python-not-found-in-vs-code-4kbn)
@@ -88,7 +89,6 @@
 - [Doubly Linked List](https://dev.to/mitul3737/doubly-linked-list-igo)
 - [Install Docker in Ubuntu](https://dev.to/mitul3737/install-docker-in-ubuntu-mj1)
 - [How to install any software in Ubuntu](https://dev.to/mitul3737/how-to-install-any-software-in-ubuntu-1f5n)
-- [Installing Docker on Windows](https://dev.to/mitul3737/all-about-docker-part-1-26ee)
 <!-- BLOG-POST-LIST:END -->
 
 
