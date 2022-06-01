@@ -79,6 +79,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [0 to Advance of Java, Python &amp; C, C++ : Part 1](https://dev.to/mitul3737/0-to-advance-of-java-python-c-c-part-1-1d8e)
 - [Why should you learn Java?](https://dev.to/mitul3737/java-0-to-advance-part-1-57c2)
 - [Starting an nginx Web server on Ubuntu](https://dev.to/mitul3737/starting-an-nginx-web-server-on-ubuntu-3mjc)
 - [0 to Advance of DevOps: Part 1](https://dev.to/mitul3737/0-to-advance-of-devops-part-1-o1k)
@@ -88,7 +89,6 @@
 - [Data Structure &amp; Algorithms: Stack](https://dev.to/mitul3737/stack-39j)
 - [VS Code hacks](https://dev.to/mitul3737/vs-code-hacks-4156)
 - [Doubly Linked List](https://dev.to/mitul3737/doubly-linked-list-igo)
-- [Install Docker in Ubuntu](https://dev.to/mitul3737/install-docker-in-ubuntu-mj1)
 <!-- BLOG-POST-LIST:END -->
 
 
