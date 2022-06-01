@@ -79,6 +79,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Java 0 to advance: Part 1](https://dev.to/mitul3737/java-0-to-advance-part-1-57c2)
 - [Starting an nginx Web server on Ubuntu](https://dev.to/mitul3737/starting-an-nginx-web-server-on-ubuntu-3mjc)
 - [0 to Advance of DevOps: Part 1](https://dev.to/mitul3737/0-to-advance-of-devops-part-1-o1k)
 - [Data Structure &amp; Algorithms: Trees](https://dev.to/mitul3737/data-structure-algorithms-trees-49mi)
@@ -88,7 +89,6 @@
 - [VS Code hacks](https://dev.to/mitul3737/vs-code-hacks-4156)
 - [Doubly Linked List](https://dev.to/mitul3737/doubly-linked-list-igo)
 - [Install Docker in Ubuntu](https://dev.to/mitul3737/install-docker-in-ubuntu-mj1)
-- [How to install any software in Ubuntu](https://dev.to/mitul3737/how-to-install-any-software-in-ubuntu-1f5n)
 <!-- BLOG-POST-LIST:END -->
 
 
