@@ -79,7 +79,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
-- [Java 0 to advance: Part 1](https://dev.to/mitul3737/java-0-to-advance-part-1-57c2)
+- [Why should you learn Java?](https://dev.to/mitul3737/java-0-to-advance-part-1-57c2)
 - [Starting an nginx Web server on Ubuntu](https://dev.to/mitul3737/starting-an-nginx-web-server-on-ubuntu-3mjc)
 - [0 to Advance of DevOps: Part 1](https://dev.to/mitul3737/0-to-advance-of-devops-part-1-o1k)
 - [Data Structure &amp; Algorithms: Trees](https://dev.to/mitul3737/data-structure-algorithms-trees-49mi)
