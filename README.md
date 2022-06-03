@@ -79,6 +79,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [0 to Advance of Java, Python &amp; C, C++ : Part 2](https://dev.to/mitul3737/0-to-advance-of-java-python-c-c-part-2-58e)
 - [What is Identity : Auth0](https://dev.to/mitul3737/what-is-identity-auth0-865)
 - [0 to Advance of Java, Python &amp; C, C++ : Part 1](https://dev.to/mitul3737/0-to-advance-of-java-python-c-c-part-1-1d8e)
 - [Why should you learn Java?](https://dev.to/mitul3737/java-0-to-advance-part-1-57c2)
@@ -88,7 +89,6 @@
 - [/bin/sh: 1: python: not found in VS Code [Solved]](https://dev.to/mitul3737/solving-binsh-1-python-not-found-in-vs-code-4kbn)
 - [Data Structure &amp; Algorithm: Queues](https://dev.to/mitul3737/data-structure-algorithm-queues-1091)
 - [Data Structure &amp; Algorithms: Stack](https://dev.to/mitul3737/stack-39j)
-- [VS Code hacks](https://dev.to/mitul3737/vs-code-hacks-4156)
 <!-- BLOG-POST-LIST:END -->
 
 
