@@ -79,6 +79,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [How to solve rounding error in Java, Python ?](https://dev.to/mitul3737/how-to-solve-rounding-error-in-java-python--1gao)
 - [0 to Advance of Java, Python &amp; C, C++ : Part 2](https://dev.to/mitul3737/0-to-advance-of-java-python-c-c-part-2-58e)
 - [What is Identity : Auth0](https://dev.to/mitul3737/what-is-identity-auth0-865)
 - [0 to Advance of Java, Python &amp; C, C++ : Part 1](https://dev.to/mitul3737/0-to-advance-of-java-python-c-c-part-1-1d8e)
@@ -88,7 +89,6 @@
 - [Data Structure &amp; Algorithms: Trees](https://dev.to/mitul3737/data-structure-algorithms-trees-49mi)
 - [/bin/sh: 1: python: not found in VS Code [Solved]](https://dev.to/mitul3737/solving-binsh-1-python-not-found-in-vs-code-4kbn)
 - [Data Structure &amp; Algorithm: Queues](https://dev.to/mitul3737/data-structure-algorithm-queues-1091)
-- [Data Structure &amp; Algorithms: Stack](https://dev.to/mitul3737/stack-39j)
 <!-- BLOG-POST-LIST:END -->
 
 
