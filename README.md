@@ -79,6 +79,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Open Jupyter Notebook from command prompt](https://dev.to/mitul3737/open-jupyter-notebook-from-command-prompt-mmb)
 - [Docker series &lpar;Part 4&rpar;: How to look what is going on in a container?](https://dev.to/mitul3737/docker-series-how-to-look-what-is-going-on-in-a-container-4cph)
 - [Docker series &lpar;Part 3&rpar;: Running 3 different containers with 3 different images in Docker](https://dev.to/mitul3737/running-3-different-containers-with-3-different-images-in-docker-312l)
 - [0 to Advance of Java, Python &amp; C, C++ : Part 3](https://dev.to/mitul3737/0-to-advance-of-java-python-c-c-part-3-312h)
@@ -88,7 +89,6 @@
 - [0 to Advance of Java, Python &amp; C, C++ : Part 1](https://dev.to/mitul3737/0-to-advance-of-java-python-c-c-part-1-1d8e)
 - [Why should you learn Java?](https://dev.to/mitul3737/java-0-to-advance-part-1-57c2)
 - [Docker series &lpar;Part 2&rpar;: Starting an nginx Web server on Ubuntu](https://dev.to/mitul3737/starting-an-nginx-web-server-on-ubuntu-3mjc)
-- [0 to Advance of DevOps: Part 1](https://dev.to/mitul3737/0-to-advance-of-devops-part-1-o1k)
 <!-- BLOG-POST-LIST:END -->
 
 
