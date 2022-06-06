@@ -79,6 +79,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Running 3 different containers with 3 different images in Docker](https://dev.to/mitul3737/running-3-different-containers-with-3-different-images-in-docker-312l)
 - [0 to Advance of Java, Python &amp; C, C++ : Part 3](https://dev.to/mitul3737/0-to-advance-of-java-python-c-c-part-3-312h)
 - [How to solve rounding error in Java, Python ?](https://dev.to/mitul3737/how-to-solve-rounding-error-in-java-python--1gao)
 - [0 to Advance of Java, Python &amp; C, C++ : Part 2](https://dev.to/mitul3737/0-to-advance-of-java-python-c-c-part-2-58e)
@@ -88,7 +89,6 @@
 - [Starting an nginx Web server on Ubuntu](https://dev.to/mitul3737/starting-an-nginx-web-server-on-ubuntu-3mjc)
 - [0 to Advance of DevOps: Part 1](https://dev.to/mitul3737/0-to-advance-of-devops-part-1-o1k)
 - [Data Structure &amp; Algorithms: Trees](https://dev.to/mitul3737/data-structure-algorithms-trees-49mi)
-- [/bin/sh: 1: python: not found in VS Code [Solved]](https://dev.to/mitul3737/solving-binsh-1-python-not-found-in-vs-code-4kbn)
 <!-- BLOG-POST-LIST:END -->
 
 
