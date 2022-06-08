@@ -79,6 +79,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [CS50 by Harvard &lpar;free for everyone&rpar;](https://www.youtube.com/watch?v=zRQXYR9ROLw)
 - [Docker series &lpar;Part 5&rpar;: Getting into the container and do some basic changes](https://dev.to/mitul3737/docker-series-part-5-getting-into-the-container-and-do-some-basic-changes-f4h)
 - [Open Jupyter Notebook from command prompt](https://dev.to/mitul3737/open-jupyter-notebook-from-command-prompt-mmb)
 - [Docker series &lpar;Part 4&rpar;: How to look what is going on in a container?](https://dev.to/mitul3737/docker-series-how-to-look-what-is-going-on-in-a-container-4cph)
@@ -88,7 +89,6 @@
 - [0 to Advance of Java, Python &amp; C, C++ : Part 2](https://dev.to/mitul3737/0-to-advance-of-java-python-c-c-part-2-58e)
 - [What is Identity : Auth0](https://dev.to/mitul3737/what-is-identity-auth0-865)
 - [0 to Advance of Java, Python &amp; C, C++ : Part 1](https://dev.to/mitul3737/0-to-advance-of-java-python-c-c-part-1-1d8e)
-- [Why should you learn Java?](https://dev.to/mitul3737/java-0-to-advance-part-1-57c2)
 <!-- BLOG-POST-LIST:END -->
 
 
