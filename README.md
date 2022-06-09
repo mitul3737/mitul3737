@@ -79,6 +79,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Docker series &lpar;Part 8&rpar;: Images from Docker Hub](https://dev.to/mitul3737/docker-series-part-8-images-from-docker-hub-39b7)
 - [Docker series &lpar;Part 7&rpar;: Create, connect &amp; disconnect your network with a container](https://dev.to/mitul3737/docker-series-part-7-189)
 - [Docker series &lpar;Part 6&rpar;: Docker Networking Basics](https://dev.to/mitul3737/docker-series-part-6-docker-networking-basics-ng)
 - [CS50 by Harvard &lpar;free for everyone&rpar;](https://www.youtube.com/watch?v=zRQXYR9ROLw)
@@ -88,7 +89,6 @@
 - [Docker series &lpar;Part 3&rpar;: Running 3 different containers with 3 different images in Docker](https://dev.to/mitul3737/running-3-different-containers-with-3-different-images-in-docker-312l)
 - [0 to Advance of Java, Python &amp; C, C++ : Part 3](https://dev.to/mitul3737/0-to-advance-of-java-python-c-c-part-3-312h)
 - [How to solve rounding error in Java, Python ?](https://dev.to/mitul3737/how-to-solve-rounding-error-in-java-python--1gao)
-- [0 to Advance of Java, Python &amp; C, C++ : Part 2](https://dev.to/mitul3737/0-to-advance-of-java-python-c-c-part-2-58e)
 <!-- BLOG-POST-LIST:END -->
 
 
