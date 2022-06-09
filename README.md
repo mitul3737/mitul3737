@@ -79,6 +79,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Docker series &lpar;Part 6&rpar;: Docker Networking Basics](https://dev.to/mitul3737/docker-series-part-6-docker-networking-basics-ng)
 - [CS50 by Harvard &lpar;free for everyone&rpar;](https://www.youtube.com/watch?v=zRQXYR9ROLw)
 - [Docker series &lpar;Part 5&rpar;: Getting into the container and do some basic changes](https://dev.to/mitul3737/docker-series-part-5-getting-into-the-container-and-do-some-basic-changes-f4h)
 - [Open Jupyter Notebook from command prompt](https://dev.to/mitul3737/open-jupyter-notebook-from-command-prompt-mmb)
@@ -88,7 +89,6 @@
 - [How to solve rounding error in Java, Python ?](https://dev.to/mitul3737/how-to-solve-rounding-error-in-java-python--1gao)
 - [0 to Advance of Java, Python &amp; C, C++ : Part 2](https://dev.to/mitul3737/0-to-advance-of-java-python-c-c-part-2-58e)
 - [What is Identity : Auth0](https://dev.to/mitul3737/what-is-identity-auth0-865)
-- [0 to Advance of Java, Python &amp; C, C++ : Part 1](https://dev.to/mitul3737/0-to-advance-of-java-python-c-c-part-1-1d8e)
 <!-- BLOG-POST-LIST:END -->
 
 
