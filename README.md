@@ -79,6 +79,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Docker series &lpar;Part 10&rpar; : Create your own Dockerfile and create a container from it](https://dev.to/mitul3737/docker-series-part-10-create-your-own-dockerfile-and-create-a-container-from-it-2b73)
 - [Docker series &lpar;Part 9&rpar;: Basics of Docker file](https://dev.to/mitul3737/docker-series-part-9-basics-of-docker-file-lkj)
 - [Docker series &lpar;Part 9&rpar;: Create your docker image from an official image](https://dev.to/mitul3737/docker-series-part-9-create-your-docker-image-from-an-official-image-5bcb)
 - [Docker series &lpar;Part 8&rpar;: Images from Docker Hub](https://dev.to/mitul3737/docker-series-part-8-images-from-docker-hub-39b7)
@@ -88,7 +89,6 @@
 - [Docker series &lpar;Part 5&rpar;: Getting into the container and do some basic changes](https://dev.to/mitul3737/docker-series-part-5-getting-into-the-container-and-do-some-basic-changes-f4h)
 - [Open Jupyter Notebook from command prompt](https://dev.to/mitul3737/open-jupyter-notebook-from-command-prompt-mmb)
 - [Docker series &lpar;Part 4&rpar;: How to look what is going on in a container?](https://dev.to/mitul3737/docker-series-how-to-look-what-is-going-on-in-a-container-4cph)
-- [Docker series &lpar;Part 3&rpar;: Running 3 different containers with 3 different images in Docker](https://dev.to/mitul3737/running-3-different-containers-with-3-different-images-in-docker-312l)
 <!-- BLOG-POST-LIST:END -->
 
 
