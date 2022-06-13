@@ -109,10 +109,10 @@
 - [Docker series &lpar;Part 8&rpar;: Images from Docker Hub](https://dev.to/mitul3737/docker-series-part-8-images-from-docker-hub-39b7)
 - [Docker series &lpar;Part 7&rpar;: Create, connect &amp; disconnect your network with a container](https://dev.to/mitul3737/docker-series-part-7-189)
 - [Docker series &lpar;Part 6&rpar;: Docker Networking Basics](https://dev.to/mitul3737/docker-series-part-6-docker-networking-basics-ng)
+- [CS50 by Harvard &lpar;free for everyone&rpar;](https://www.youtube.com/watch?v=zRQXYR9ROLw)
 - [Docker series &lpar;Part 5&rpar;: Getting into the container and do some basic changes](https://dev.to/mitul3737/docker-series-part-5-getting-into-the-container-and-do-some-basic-changes-f4h)
 - [Open Jupyter Notebook from command prompt](https://dev.to/mitul3737/open-jupyter-notebook-from-command-prompt-mmb)
 - [Docker series &lpar;Part 4&rpar;: How to look what is going on in a container?](https://dev.to/mitul3737/docker-series-how-to-look-what-is-going-on-in-a-container-4cph)
-- [Docker series &lpar;Part 3&rpar;: Running 3 different containers with 3 different images in Docker](https://dev.to/mitul3737/running-3-different-containers-with-3-different-images-in-docker-312l)
 <!-- BLOG-POST-LIST:END -->
 
 
