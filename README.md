@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Web3 series&lpar; Part 1&rpar; : Intro to Web3 &amp; Block chain](https://dev.to/mitul3737/web3-series-part-1-intro-to-web3-block-chain-441i)
 - [Docker series &lpar;Part 10&rpar; : Create your own Dockerfile and create a container from it](https://dev.to/mitul3737/docker-series-part-10-create-your-own-dockerfile-and-create-a-container-from-it-2b73)
 - [Docker series &lpar;Part 9&rpar;: Basics of Docker file](https://dev.to/mitul3737/docker-series-part-9-basics-of-docker-file-lkj)
 - [Docker series &lpar;Part 9&rpar;: Create your docker image from an official image](https://dev.to/mitul3737/docker-series-part-9-create-your-docker-image-from-an-official-image-5bcb)
@@ -112,7 +113,6 @@
 - [CS50 by Harvard &lpar;free for everyone&rpar;](https://www.youtube.com/watch?v=zRQXYR9ROLw)
 - [Docker series &lpar;Part 5&rpar;: Getting into the container and do some basic changes](https://dev.to/mitul3737/docker-series-part-5-getting-into-the-container-and-do-some-basic-changes-f4h)
 - [Open Jupyter Notebook from command prompt](https://dev.to/mitul3737/open-jupyter-notebook-from-command-prompt-mmb)
-- [Docker series &lpar;Part 4&rpar;: How to look what is going on in a container?](https://dev.to/mitul3737/docker-series-how-to-look-what-is-going-on-in-a-container-4cph)
 <!-- BLOG-POST-LIST:END -->
 
 
