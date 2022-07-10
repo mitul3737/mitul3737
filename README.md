@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Docker series &lpar;Part 11&rpar;: Container lifetime &amp; persistent data](https://dev.to/mitul3737/docker-series-part-11-container-lifetime-persistent-data-162i)
 - [AWS DeepRacer student: Machine Learning Basics for model training &lpar;Part 1&rpar;](https://dev.to/mitul3737/aws-deepracer-student-machine-learning-basics-for-model-training-part-1-4p75)
 - [Machine Learning A to Z: Part 1](https://dev.to/mitul3737/machine-learning-a-to-z-part-1-fkb)
 - [What is YOLOv3 model?](https://dev.to/mitul3737/what-is-yolov3-model-5918)
@@ -112,7 +113,6 @@
 - [Docker series &lpar;Part 9&rpar;: Basics of Docker file](https://dev.to/mitul3737/docker-series-part-9-basics-of-docker-file-lkj)
 - [Docker series &lpar;Part 9&rpar;: Create your docker image from an official image](https://dev.to/mitul3737/docker-series-part-9-create-your-docker-image-from-an-official-image-5bcb)
 - [Docker series &lpar;Part 8&rpar;: Images from Docker Hub](https://dev.to/mitul3737/docker-series-part-8-images-from-docker-hub-39b7)
-- [Docker series &lpar;Part 7&rpar;: Create, connect &amp; disconnect your network with a container](https://dev.to/mitul3737/docker-series-part-7-189)
 <!-- BLOG-POST-LIST:END -->
 
 
