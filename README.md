@@ -103,6 +103,8 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Database Passwords in Containers](https://dev.to/mitul3737/database-passwords-in-containers-2l)
+- [Docker series &lpar;Part 13&rpar;: Edit codes running in containers using Bind Mounts](https://dev.to/mitul3737/docker-series-part-13-edit-codes-running-in-containers-using-bind-mounts-8ih)
 - [File permission across multiple containers](https://dev.to/mitul3737/file-permission-across-multiple-containers-3lh5)
 - [Docker series &lpar;Part 12&rpar;: Database upgrade with named volume](https://dev.to/mitul3737/docker-series-part-12-database-upgrade-with-named-volume-nmb)
 - [Docker series &lpar;Part 11&rpar;: Container lifetime &amp; persistent data](https://dev.to/mitul3737/docker-series-part-11-container-lifetime-persistent-data-162i)
@@ -111,8 +113,6 @@
 - [What is YOLOv3 model?](https://dev.to/mitul3737/what-is-yolov3-model-5918)
 - [Web3 series&lpar; Part 1&rpar; : Smart Contract](https://dev.to/mitul3737/web3-series-part-1-smart-contract-6g2)
 - [Web3 series&lpar; Part 1&rpar; : Intro to Web3 &amp; Block chain](https://dev.to/mitul3737/web3-series-part-1-intro-to-web3-block-chain-441i)
-- [Docker series &lpar;Part 10&rpar; : Create your own Dockerfile and create a container from it](https://dev.to/mitul3737/docker-series-part-10-create-your-own-dockerfile-and-create-a-container-from-it-2b73)
-- [Docker series &lpar;Part 9&rpar;: Basics of Docker file](https://dev.to/mitul3737/docker-series-part-9-basics-of-docker-file-lkj)
 <!-- BLOG-POST-LIST:END -->
 
 
