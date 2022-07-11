@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Docker series &lpar;Part 14&rpar;: Docker Compose](https://dev.to/mitul3737/docker-series-part-14-docker-compose-2pcd)
 - [Database Passwords in Containers](https://dev.to/mitul3737/database-passwords-in-containers-2l)
 - [Docker series &lpar;Part 13&rpar;: Edit codes running in containers using Bind Mounts](https://dev.to/mitul3737/docker-series-part-13-edit-codes-running-in-containers-using-bind-mounts-8ih)
 - [File permission across multiple containers](https://dev.to/mitul3737/file-permission-across-multiple-containers-3lh5)
@@ -112,7 +113,6 @@
 - [Machine Learning A to Z: Part 1](https://dev.to/mitul3737/machine-learning-a-to-z-part-1-fkb)
 - [What is YOLOv3 model?](https://dev.to/mitul3737/what-is-yolov3-model-5918)
 - [Web3 series&lpar; Part 1&rpar; : Smart Contract](https://dev.to/mitul3737/web3-series-part-1-smart-contract-6g2)
-- [Web3 series&lpar; Part 1&rpar; : Intro to Web3 &amp; Block chain](https://dev.to/mitul3737/web3-series-part-1-intro-to-web3-block-chain-441i)
 <!-- BLOG-POST-LIST:END -->
 
 
