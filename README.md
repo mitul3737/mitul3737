@@ -103,6 +103,8 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Docker series &lpar;Part 16&rpar;: Docker Registry](https://dev.to/mitul3737/docker-series-part-16-docker-registry-3po)
+- [Docker series &lpar;Part 15&rpar;: Build a compose file for multi container project](https://dev.to/mitul3737/docker-series-part-15-build-a-compose-file-for-multi-container-project-3f1g)
 - [Docker series &lpar;Part 14&rpar;: Docker Compose](https://dev.to/mitul3737/docker-series-part-14-docker-compose-2pcd)
 - [Database Passwords in Containers](https://dev.to/mitul3737/database-passwords-in-containers-2l)
 - [Docker series &lpar;Part 13&rpar;: Edit codes running in containers using Bind Mounts](https://dev.to/mitul3737/docker-series-part-13-edit-codes-running-in-containers-using-bind-mounts-8ih)
@@ -111,8 +113,6 @@
 - [Docker series &lpar;Part 11&rpar;: Container lifetime &amp; persistent data](https://dev.to/mitul3737/docker-series-part-11-container-lifetime-persistent-data-162i)
 - [AWS DeepRacer student: Machine Learning Basics for model training &lpar;Part 1&rpar;](https://dev.to/mitul3737/aws-deepracer-student-machine-learning-basics-for-model-training-part-1-4p75)
 - [Machine Learning A to Z: Part 1](https://dev.to/mitul3737/machine-learning-a-to-z-part-1-fkb)
-- [What is YOLOv3 model?](https://dev.to/mitul3737/what-is-yolov3-model-5918)
-- [Web3 series&lpar; Part 1&rpar; : Smart Contract](https://dev.to/mitul3737/web3-series-part-1-smart-contract-6g2)
 <!-- BLOG-POST-LIST:END -->
 
 
