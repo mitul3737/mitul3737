@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Series &lpar;Part 1&rpar; : Basics of Kubernetes &amp; Its Architecture](https://dev.to/mitul3737/kubernetes-series-part-1--4n9p)
 - [Docker series &lpar;Part 16&rpar;: Docker Registry](https://dev.to/mitul3737/docker-series-part-16-docker-registry-3po)
 - [Docker series &lpar;Part 15&rpar;: Build a compose file for multi container project](https://dev.to/mitul3737/docker-series-part-15-build-a-compose-file-for-multi-container-project-3f1g)
 - [Docker series &lpar;Part 14&rpar;: Docker Compose](https://dev.to/mitul3737/docker-series-part-14-docker-compose-2pcd)
@@ -112,7 +113,6 @@
 - [Docker series &lpar;Part 12&rpar;: Database upgrade with named volume](https://dev.to/mitul3737/docker-series-part-12-database-upgrade-with-named-volume-nmb)
 - [Docker series &lpar;Part 11&rpar;: Container lifetime &amp; persistent data](https://dev.to/mitul3737/docker-series-part-11-container-lifetime-persistent-data-162i)
 - [AWS DeepRacer student: Machine Learning Basics for model training &lpar;Part 1&rpar;](https://dev.to/mitul3737/aws-deepracer-student-machine-learning-basics-for-model-training-part-1-4p75)
-- [Machine Learning A to Z: Part 1](https://dev.to/mitul3737/machine-learning-a-to-z-part-1-fkb)
 <!-- BLOG-POST-LIST:END -->
 
 
