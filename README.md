@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [CKA &amp; CKAD Series &lpar;Part1&rpar;: Basics of Kubernetes](https://dev.to/mitul3737/cka-ckad-series-part1-basics-of-kubernetes-43mh)
 - [Kubernetes series &lpar;Part 2&rpar;: Installing Kubernetes dependencies](https://dev.to/mitul3737/kubernetes-series-part-2-installing-kubernetes-dependencies-43bh)
 - [Kubernetes Series &lpar;Part 1&rpar; : Basics of Kubernetes &amp; Its Architecture](https://dev.to/mitul3737/kubernetes-series-part-1--4n9p)
 - [Docker series &lpar;Part 16&rpar;: Docker Registry](https://dev.to/mitul3737/docker-series-part-16-docker-registry-3po)
@@ -112,7 +113,6 @@
 - [Docker series &lpar;Part 13&rpar;: Edit codes running in containers using Bind Mounts](https://dev.to/mitul3737/docker-series-part-13-edit-codes-running-in-containers-using-bind-mounts-8ih)
 - [File permission across multiple containers](https://dev.to/mitul3737/file-permission-across-multiple-containers-3lh5)
 - [Docker series &lpar;Part 12&rpar;: Database upgrade with named volume](https://dev.to/mitul3737/docker-series-part-12-database-upgrade-with-named-volume-nmb)
-- [Docker series &lpar;Part 11&rpar;: Container lifetime &amp; persistent data](https://dev.to/mitul3737/docker-series-part-11-container-lifetime-persistent-data-162i)
 <!-- BLOG-POST-LIST:END -->
 
 
