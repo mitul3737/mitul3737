@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes series &lpar;Part 3&rpar;: Use kubectl](https://dev.to/mitul3737/kubernetes-series-part-3-use-kubectl-2ja3)
 - [Dictionary is unordered but list is not](https://dev.to/mitul3737/dictionary-is-unordered-but-list-is-not-48do)
 - [CKA &amp; CKAD Series &lpar;Part1&rpar;: Basics of Kubernetes](https://dev.to/mitul3737/cka-ckad-series-part1-basics-of-kubernetes-43mh)
 - [Kubernetes series &lpar;Part 2&rpar;: Installing Kubernetes dependencies](https://dev.to/mitul3737/kubernetes-series-part-2-installing-kubernetes-dependencies-43bh)
@@ -112,7 +113,6 @@
 - [Docker series &lpar;Part 14&rpar;: Docker Compose](https://dev.to/mitul3737/docker-series-part-14-docker-compose-2pcd)
 - [Database Passwords in Containers](https://dev.to/mitul3737/database-passwords-in-containers-2l)
 - [Docker series &lpar;Part 13&rpar;: Edit codes running in containers using Bind Mounts](https://dev.to/mitul3737/docker-series-part-13-edit-codes-running-in-containers-using-bind-mounts-8ih)
-- [File permission across multiple containers](https://dev.to/mitul3737/file-permission-across-multiple-containers-3lh5)
 <!-- BLOG-POST-LIST:END -->
 
 
