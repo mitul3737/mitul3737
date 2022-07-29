@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [CKA &amp; CKAD Series &lpar;Part2&rpar;: Basics of Yaml &amp; creating a pod using yaml](https://dev.to/mitul3737/cka-ckad-series-part2-basics-of-yaml-creating-a-pod-using-yaml-39dh)
 - [Install MicroK8s in Ubuntu](https://dev.to/mitul3737/install-microk8s-in-ubuntu-3jfj)
 - [[Solved] The connection to the server 127.0.0.1:16443 was refused - did you specify the right host or port? &lpar;Ubuntu&rpar;](https://dev.to/mitul3737/solved-the-connection-to-the-server-12700116443-was-refused-did-you-specify-the-right-host-or-port-fdp)
 - [Kubernetes series &lpar;Part 3&rpar;: Use kubectl](https://dev.to/mitul3737/kubernetes-series-part-3-use-kubectl-2ja3)
@@ -112,7 +113,6 @@
 - [Kubernetes Series &lpar;Part 1&rpar; : Basics of Kubernetes &amp; Its Architecture](https://dev.to/mitul3737/kubernetes-series-part-1--4n9p)
 - [Docker series &lpar;Part 16&rpar;: Docker Registry](https://dev.to/mitul3737/docker-series-part-16-docker-registry-3po)
 - [Docker series &lpar;Part 15&rpar;: Build a compose file for multi container project](https://dev.to/mitul3737/docker-series-part-15-build-a-compose-file-for-multi-container-project-3f1g)
-- [Docker series &lpar;Part 14&rpar;: Docker Compose](https://dev.to/mitul3737/docker-series-part-14-docker-compose-2pcd)
 <!-- BLOG-POST-LIST:END -->
 
 
