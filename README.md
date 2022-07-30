@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [CKA &amp; CKAD Series &lpar;Part2&rpar;: Replication controller &amp; replicaset](https://dev.to/mitul3737/cka-ckad-series-part2-replication-controller-replicaset-23lg)
 - [Use yaml format for Kubernetes from VS Code extension](https://dev.to/mitul3737/use-yaml-format-for-kubernetes-from-vs-code-extension-3n9e)
 - [CKA &amp; CKAD Series &lpar;Part2&rpar;: Basics of Yaml &amp; creating a pod using yaml](https://dev.to/mitul3737/cka-ckad-series-part2-basics-of-yaml-creating-a-pod-using-yaml-39dh)
 - [Install MicroK8s in Ubuntu](https://dev.to/mitul3737/install-microk8s-in-ubuntu-3jfj)
@@ -112,7 +113,6 @@
 - [CKA &amp; CKAD Series &lpar;Part1&rpar;: Basics of Kubernetes](https://dev.to/mitul3737/cka-ckad-series-part1-basics-of-kubernetes-43mh)
 - [Kubernetes series &lpar;Part 2&rpar;: Installing Kubernetes dependencies](https://dev.to/mitul3737/kubernetes-series-part-2-installing-kubernetes-dependencies-43bh)
 - [Kubernetes Series &lpar;Part 1&rpar; : Basics of Kubernetes &amp; Its Architecture](https://dev.to/mitul3737/kubernetes-series-part-1--4n9p)
-- [Docker series &lpar;Part 16&rpar;: Docker Registry](https://dev.to/mitul3737/docker-series-part-16-docker-registry-3po)
 <!-- BLOG-POST-LIST:END -->
 
 
