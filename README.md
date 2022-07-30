@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [CKA &amp; CKAD Series &lpar;Part 4&rpar;: Deployment &amp; roll out](https://dev.to/mitul3737/cka-ckad-series-part-4-deployment-roll-out-1655)
 - [CKA &amp; CKAD Series &lpar;Part 3&rpar;: Replication controller &amp; replicaset](https://dev.to/mitul3737/cka-ckad-series-part2-replication-controller-replicaset-23lg)
 - [Use yaml format for Kubernetes from VS Code extension](https://dev.to/mitul3737/use-yaml-format-for-kubernetes-from-vs-code-extension-3n9e)
 - [CKA &amp; CKAD Series &lpar;Part2&rpar;: Basics of Yaml &amp; creating a pod using yaml](https://dev.to/mitul3737/cka-ckad-series-part2-basics-of-yaml-creating-a-pod-using-yaml-39dh)
@@ -112,7 +113,6 @@
 - [Dictionary is unordered but list is not](https://dev.to/mitul3737/dictionary-is-unordered-but-list-is-not-48do)
 - [CKA &amp; CKAD Series &lpar;Part1&rpar;: Basics of Kubernetes](https://dev.to/mitul3737/cka-ckad-series-part1-basics-of-kubernetes-43mh)
 - [Kubernetes series &lpar;Part 2&rpar;: Installing Kubernetes dependencies](https://dev.to/mitul3737/kubernetes-series-part-2-installing-kubernetes-dependencies-43bh)
-- [Kubernetes Series &lpar;Part 1&rpar; : Basics of Kubernetes &amp; Its Architecture](https://dev.to/mitul3737/kubernetes-series-part-1--4n9p)
 <!-- BLOG-POST-LIST:END -->
 
 
