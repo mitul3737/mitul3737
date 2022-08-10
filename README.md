@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [CKA &amp; CKAD Series &lpar;Part 5&rpar;: Networking](https://dev.to/mitul3737/cka-ckad-series-part-5-networking-4dpe)
 - [Edit your files in vim](https://dev.to/mitul3737/edit-your-files-in-vim-2llm)
 - [CKA &amp; CKAD Series &lpar;Part 4&rpar;: Deployment &amp; roll out](https://dev.to/mitul3737/cka-ckad-series-part-4-deployment-roll-out-1655)
 - [CKA &amp; CKAD Series &lpar;Part 3&rpar;: Replication controller &amp; replicaset](https://dev.to/mitul3737/cka-ckad-series-part2-replication-controller-replicaset-23lg)
@@ -112,7 +113,6 @@
 - [[Solved] The connection to the server 127.0.0.1:16443 was refused - did you specify the right host or port? &lpar;Ubuntu&rpar;](https://dev.to/mitul3737/solved-the-connection-to-the-server-12700116443-was-refused-did-you-specify-the-right-host-or-port-fdp)
 - [Kubernetes series &lpar;Part 3&rpar;: Use kubectl](https://dev.to/mitul3737/kubernetes-series-part-3-use-kubectl-2ja3)
 - [Dictionary is unordered but list is not](https://dev.to/mitul3737/dictionary-is-unordered-but-list-is-not-48do)
-- [CKA &amp; CKAD Series &lpar;Part1&rpar;: Basics of Kubernetes](https://dev.to/mitul3737/cka-ckad-series-part1-basics-of-kubernetes-43mh)
 <!-- BLOG-POST-LIST:END -->
 
 
