@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Contribute to Numpy](https://dev.to/mitul3737/contribute-to-numpy-29ah)
 - [CKA &amp; CKAD Series &lpar;Part 6&rpar;: Services](https://dev.to/mitul3737/cka-ckad-series-part-6-services-pi6)
 - [CKA &amp; CKAD Series &lpar;Part 5&rpar;: Networking](https://dev.to/mitul3737/cka-ckad-series-part-5-networking-4dpe)
 - [Edit your files in vim](https://dev.to/mitul3737/edit-your-files-in-vim-2llm)
@@ -112,7 +113,6 @@
 - [CKA &amp; CKAD Series &lpar;Part2&rpar;: Basics of Yaml &amp; creating a pod using yaml](https://dev.to/mitul3737/cka-ckad-series-part2-basics-of-yaml-creating-a-pod-using-yaml-39dh)
 - [Install MicroK8s in Ubuntu](https://dev.to/mitul3737/install-microk8s-in-ubuntu-3jfj)
 - [[Solved] The connection to the server 127.0.0.1:16443 was refused - did you specify the right host or port? &lpar;Ubuntu&rpar;](https://dev.to/mitul3737/solved-the-connection-to-the-server-12700116443-was-refused-did-you-specify-the-right-host-or-port-fdp)
-- [Kubernetes series &lpar;Part 3&rpar;: Use kubectl](https://dev.to/mitul3737/kubernetes-series-part-3-use-kubectl-2ja3)
 <!-- BLOG-POST-LIST:END -->
 
 
