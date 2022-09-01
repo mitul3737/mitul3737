@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Data Structure &amp; Algorithms: Hash table](https://dev.to/mitul3737/data-structure-algorithms-hash-table-2893)
 - [Contribute to Numpy](https://dev.to/mitul3737/contribute-to-numpy-29ah)
 - [CKA &amp; CKAD Series &lpar;Part 6&rpar;: Services](https://dev.to/mitul3737/cka-ckad-series-part-6-services-pi6)
 - [CKA &amp; CKAD Series &lpar;Part 5&rpar;: Networking](https://dev.to/mitul3737/cka-ckad-series-part-5-networking-4dpe)
@@ -112,7 +113,6 @@
 - [Use yaml format for Kubernetes from VS Code extension](https://dev.to/mitul3737/use-yaml-format-for-kubernetes-from-vs-code-extension-3n9e)
 - [CKA &amp; CKAD Series &lpar;Part2&rpar;: Basics of Yaml &amp; creating a pod using yaml](https://dev.to/mitul3737/cka-ckad-series-part2-basics-of-yaml-creating-a-pod-using-yaml-39dh)
 - [Install MicroK8s in Ubuntu](https://dev.to/mitul3737/install-microk8s-in-ubuntu-3jfj)
-- [[Solved] The connection to the server 127.0.0.1:16443 was refused - did you specify the right host or port? &lpar;Ubuntu&rpar;](https://dev.to/mitul3737/solved-the-connection-to-the-server-12700116443-was-refused-did-you-specify-the-right-host-or-port-fdp)
 <!-- BLOG-POST-LIST:END -->
 
 
