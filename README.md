@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [DSA by Mitul in C++, Python, and Java &lpar;Part 1&rpar;: Introduction to Data Structure and Algorithms](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-part-1-introduction-to-data-structure-and-algorithms-l40)
 - [DevOps Prerequisite &lpar;Part1&rpar;: Linux Basics](https://dev.to/mitul3737/devops-prerequisite-part1-linux-basics-1aa8)
 - [Data Structure &amp; Algorithms: Hash table](https://dev.to/mitul3737/data-structure-algorithms-hash-table-2893)
 - [Contribute to Numpy](https://dev.to/mitul3737/contribute-to-numpy-29ah)
@@ -112,7 +113,6 @@
 - [CKA &amp; CKAD Series &lpar;Part 4&rpar;: Deployment &amp; roll out](https://dev.to/mitul3737/cka-ckad-series-part-4-deployment-roll-out-1655)
 - [CKA &amp; CKAD Series &lpar;Part 3&rpar;: Replication controller &amp; replicaset](https://dev.to/mitul3737/cka-ckad-series-part2-replication-controller-replicaset-23lg)
 - [Use yaml format for Kubernetes from VS Code extension](https://dev.to/mitul3737/use-yaml-format-for-kubernetes-from-vs-code-extension-3n9e)
-- [CKA &amp; CKAD Series &lpar;Part2&rpar;: Basics of Yaml &amp; creating a pod using yaml](https://dev.to/mitul3737/cka-ckad-series-part2-basics-of-yaml-creating-a-pod-using-yaml-39dh)
 <!-- BLOG-POST-LIST:END -->
 
 
