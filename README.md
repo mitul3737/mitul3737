@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Create a Virtual Machine Using the command line in Google Cloud Platform](https://dev.to/mitul3737/create-a-virtual-machine-using-command-line-in-google-cloud-platform-4a49)
 - [DSA by Mitul in C++, Python, and Java &lpar;Part 1&rpar;: Introduction to Data Structure and Algorithms](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-part-1-introduction-to-data-structure-and-algorithms-l40)
 - [DevOps Prerequisite &lpar;Part1&rpar;: Linux Basics](https://dev.to/mitul3737/devops-prerequisite-part1-linux-basics-1aa8)
 - [Data Structure &amp; Algorithms: Hash table](https://dev.to/mitul3737/data-structure-algorithms-hash-table-2893)
@@ -112,7 +113,6 @@
 - [Edit your files in vim](https://dev.to/mitul3737/edit-your-files-in-vim-2llm)
 - [CKA &amp; CKAD Series &lpar;Part 4&rpar;: Deployment &amp; roll out](https://dev.to/mitul3737/cka-ckad-series-part-4-deployment-roll-out-1655)
 - [CKA &amp; CKAD Series &lpar;Part 3&rpar;: Replication controller &amp; replicaset](https://dev.to/mitul3737/cka-ckad-series-part2-replication-controller-replicaset-23lg)
-- [Use yaml format for Kubernetes from VS Code extension](https://dev.to/mitul3737/use-yaml-format-for-kubernetes-from-vs-code-extension-3n9e)
 <!-- BLOG-POST-LIST:END -->
 
 
