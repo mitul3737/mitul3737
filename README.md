@@ -103,16 +103,16 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
-- [CS50 by Harvard &lpar;free for everyone&rpar;](https://www.youtube.com/watch?v=zRQXYR9ROLw)
-- [Create your signature for Gmail | LWM Community](https://www.youtube.com/watch?v=r31mT4E3hSk)
-- [Using AWS CodeStar  | Amazon Web Services](https://www.youtube.com/watch?v=k_6tx4Zf0Ng)
-- [Create a stack using CloudFormation | Amazon Web Services](https://www.youtube.com/watch?v=3PUR6hMcTD8)
-- [Creating an instance using Amazon Lightsail | Amazon Lightsail](https://www.youtube.com/watch?v=aQDtOzxb3ck)
-- [Creating  a function from Amazon Lambda | Amazon Lambda](https://www.youtube.com/watch?v=UOjW8enalSQ)
-- [Creating a DynamoDB database | Amazon Database](https://www.youtube.com/watch?v=bnj3OXxKkj4)
-- [Creating an RDS database | Amazon Database](https://www.youtube.com/watch?v=IeXCWv14KcM)
-- [Creating a replica for the bucket | Amazon S3](https://www.youtube.com/watch?v=Yax-Eje_KS0)
-- [Creating a Server Access Logging with a Bucket | Amazon S3](https://www.youtube.com/watch?v=ndWxebkAkfw)
+- [Create an AWS Account in 4 easy steps !](https://dev.to/mitul3737/create-an-aws-account-in-4-easy-steps--57mf)
+- [Create a service account in the Google Cloud Platform using the command line:](https://dev.to/mitul3737/create-a-service-account-in-google-cloud-platform-using-the-command-line-33hl)
+- [Create a Virtual Machine Using the command line in Google Cloud Platform](https://dev.to/mitul3737/create-a-virtual-machine-using-command-line-in-google-cloud-platform-4a49)
+- [DSA by Mitul in C++, Python, and Java &lpar;Part 1&rpar;: Introduction to Data Structure and Algorithms](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-part-1-introduction-to-data-structure-and-algorithms-l40)
+- [DevOps Prerequisite &lpar;Part1&rpar;: Linux Basics](https://dev.to/mitul3737/devops-prerequisite-part1-linux-basics-1aa8)
+- [Data Structure &amp; Algorithms: Hash table](https://dev.to/mitul3737/data-structure-algorithms-hash-table-2893)
+- [Contribute to Numpy](https://dev.to/mitul3737/contribute-to-numpy-29ah)
+- [CKA &amp; CKAD Series &lpar;Part 6&rpar;: Services](https://dev.to/mitul3737/cka-ckad-series-part-6-services-pi6)
+- [CKA &amp; CKAD Series &lpar;Part 5&rpar;: Networking](https://dev.to/mitul3737/cka-ckad-series-part-5-networking-4dpe)
+- [Edit your files in vim](https://dev.to/mitul3737/edit-your-files-in-vim-2llm)
 <!-- BLOG-POST-LIST:END -->
 
 
