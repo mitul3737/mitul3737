@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Run Jupyter notebook in any location](https://dev.to/mitul3737/run-jupyter-notebook-in-any-location-535a)
 - [DSA by Mitul in C++, Python, and Java : Sorting Algorithms](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-sorting-algorithms-2b2a)
 - [Create an AWS Account in 4 easy steps !](https://dev.to/mitul3737/create-an-aws-account-in-4-easy-steps--57mf)
 - [Create a service account in the Google Cloud Platform using the command line:](https://dev.to/mitul3737/create-a-service-account-in-google-cloud-platform-using-the-command-line-33hl)
@@ -112,7 +113,6 @@
 - [Data Structure &amp; Algorithms: Hash table](https://dev.to/mitul3737/data-structure-algorithms-hash-table-2893)
 - [Contribute to Numpy](https://dev.to/mitul3737/contribute-to-numpy-29ah)
 - [CKA &amp; CKAD Series &lpar;Part 6&rpar;: Services](https://dev.to/mitul3737/cka-ckad-series-part-6-services-pi6)
-- [CKA &amp; CKAD Series &lpar;Part 5&rpar;: Networking](https://dev.to/mitul3737/cka-ckad-series-part-5-networking-4dpe)
 <!-- BLOG-POST-LIST:END -->
 
 
