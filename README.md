@@ -120,8 +120,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   6 hrs 59 mins   ████████████████████████▓   98.97 %
-Java     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Python   6 hrs 59 mins   █████████████████████████   99.52 %
+Java     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
