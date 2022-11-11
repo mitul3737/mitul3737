@@ -103,16 +103,16 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [DSA by Mitul in C++, Python, and Java : Bubble sort](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-bubble-sort-3dn0)
+- [DSA by Mitul in C++, Python, and Java : Selection Sort](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-selection-sort-49l5)
+- [DSA by Mitul in C++, Python, and Java : Insertion Sort](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-insertion-sort-1jm0)
+- [DSA by Mitul in C++, Python, and Java : Bucket sort](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-bucket-sort-284d)
+- [DSA by Mitul in C++, Python, and Java : Merge Sort &lpar;Divide &amp; Conquer Algorithm&rpar;](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-merge-sort-divide-conquer-algorithm-411k)
+- [DSA by Mitul in C++, Python, and Java : Quick Sort &lpar;Divide and conquer algorithm&rpar;](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-quick-sort-divide-and-conquer-algorithm-3mf2)
 - [Run Jupyter notebook in any location](https://dev.to/mitul3737/run-jupyter-notebook-in-any-location-535a)
 - [DSA by Mitul in C++, Python, and Java : Sorting Algorithms](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-sorting-algorithms-2b2a)
 - [Create an AWS Account in 4 easy steps !](https://dev.to/mitul3737/create-an-aws-account-in-4-easy-steps--57mf)
 - [Create a service account in the Google Cloud Platform using the command line:](https://dev.to/mitul3737/create-a-service-account-in-google-cloud-platform-using-the-command-line-33hl)
-- [Create a Virtual Machine Using the command line in Google Cloud Platform](https://dev.to/mitul3737/create-a-virtual-machine-using-command-line-in-google-cloud-platform-4a49)
-- [DSA by Mitul in C++, Python, and Java &lpar;Part 1&rpar;: Introduction to Data Structure and Algorithms](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-part-1-introduction-to-data-structure-and-algorithms-l40)
-- [DevOps Prerequisite &lpar;Part1&rpar;: Linux Basics](https://dev.to/mitul3737/devops-prerequisite-part1-linux-basics-1aa8)
-- [Data Structure &amp; Algorithms: Hash table](https://dev.to/mitul3737/data-structure-algorithms-hash-table-2893)
-- [Contribute to Numpy](https://dev.to/mitul3737/contribute-to-numpy-29ah)
-- [CKA &amp; CKAD Series &lpar;Part 6&rpar;: Services](https://dev.to/mitul3737/cka-ckad-series-part-6-services-pi6)
 <!-- BLOG-POST-LIST:END -->
 
 
