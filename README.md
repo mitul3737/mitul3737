@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Want to know what is DevOps through a story?](https://dev.to/mitul3737/want-to-know-what-is-devops-through-a-story-40md)
 - [DSA by Mitul in C++, Python, and Java : Bubble sort](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-bubble-sort-3dn0)
 - [DSA by Mitul in C++, Python, and Java : Selection Sort](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-selection-sort-49l5)
 - [DSA by Mitul in C++, Python, and Java : Insertion Sort](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-insertion-sort-1jm0)
@@ -112,7 +113,6 @@
 - [Run Jupyter notebook in any location](https://dev.to/mitul3737/run-jupyter-notebook-in-any-location-535a)
 - [DSA by Mitul in C++, Python, and Java : Sorting Algorithms](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-sorting-algorithms-2b2a)
 - [Create an AWS Account in 4 easy steps !](https://dev.to/mitul3737/create-an-aws-account-in-4-easy-steps--57mf)
-- [Create a service account in the Google Cloud Platform using the command line:](https://dev.to/mitul3737/create-a-service-account-in-google-cloud-platform-using-the-command-line-33hl)
 <!-- BLOG-POST-LIST:END -->
 
 
