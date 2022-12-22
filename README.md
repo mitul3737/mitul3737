@@ -103,7 +103,8 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
-- [Fix your external IP address for you VM using GCP](https://dev.to/mitul3737/fix-your-external-ip-address-for-you-vm-using-gcp-4cbm)
+- [Reduce your steps to set up a VM](https://dev.to/mitul3737/reduce-your-steps-to-set-a-vm-92g)
+- [Fix your external IP address for your VM using GCP](https://dev.to/mitul3737/fix-your-external-ip-address-for-you-vm-using-gcp-4cbm)
 - [Difference between Internal and External IP address](https://dev.to/mitul3737/difference-between-internal-and-external-ip-address-37mn)
 - [Prepare for Google Cloud Professional Cloud Architect exam : Regions and Zones](https://dev.to/mitul3737/prepare-for-google-cloud-professional-cloud-architect-exam-27kk)
 - [What is Continuous Integration &lpar;CI&rpar;](https://dev.to/mitul3737/what-is-continuous-integration-ci-mie)
@@ -112,7 +113,6 @@
 - [DSA by Mitul in C++, Python, and Java : Selection Sort](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-selection-sort-49l5)
 - [DSA by Mitul in C++, Python, and Java : Insertion Sort](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-insertion-sort-1jm0)
 - [DSA by Mitul in C++, Python, and Java : Bucket sort](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-bucket-sort-284d)
-- [DSA by Mitul in C++, Python, and Java : Merge Sort &lpar;Divide &amp; Conquer Algorithm&rpar;](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-merge-sort-divide-conquer-algorithm-411k)
 <!-- BLOG-POST-LIST:END -->
 
 
