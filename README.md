@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Difference between Internal and External IP address](https://dev.to/mitul3737/difference-between-internal-and-external-ip-address-37mn)
 - [Prepare for Google Cloud Professional Cloud Architect exam : Regions and Zones](https://dev.to/mitul3737/prepare-for-google-cloud-professional-cloud-architect-exam-27kk)
 - [What is Continuous Integration &lpar;CI&rpar;](https://dev.to/mitul3737/what-is-continuous-integration-ci-mie)
 - [Want to know what is DevOps through a story?](https://dev.to/mitul3737/want-to-know-what-is-devops-through-a-story-40md)
@@ -112,7 +113,6 @@
 - [DSA by Mitul in C++, Python, and Java : Bucket sort](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-bucket-sort-284d)
 - [DSA by Mitul in C++, Python, and Java : Merge Sort &lpar;Divide &amp; Conquer Algorithm&rpar;](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-merge-sort-divide-conquer-algorithm-411k)
 - [DSA by Mitul in C++, Python, and Java : Quick Sort &lpar;Divide and conquer algorithm&rpar;](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-quick-sort-divide-and-conquer-algorithm-3mf2)
-- [Run Jupyter notebook in any location](https://dev.to/mitul3737/run-jupyter-notebook-in-any-location-535a)
 <!-- BLOG-POST-LIST:END -->
 
 
