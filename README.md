@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [GCP Architecture and Framework](https://dev.to/mitul3737/gcp-architecture-and-framework-35o2)
 - [Reduce your steps to set up a VM](https://dev.to/mitul3737/reduce-your-steps-to-set-a-vm-92g)
 - [Fix your external IP address for your VM using GCP](https://dev.to/mitul3737/fix-your-external-ip-address-for-you-vm-using-gcp-4cbm)
 - [Difference between Internal and External IP address](https://dev.to/mitul3737/difference-between-internal-and-external-ip-address-37mn)
@@ -112,7 +113,6 @@
 - [DSA by Mitul in C++, Python, and Java : Bubble sort](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-bubble-sort-3dn0)
 - [DSA by Mitul in C++, Python, and Java : Selection Sort](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-selection-sort-49l5)
 - [DSA by Mitul in C++, Python, and Java : Insertion Sort](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-insertion-sort-1jm0)
-- [DSA by Mitul in C++, Python, and Java : Bucket sort](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-bucket-sort-284d)
 <!-- BLOG-POST-LIST:END -->
 
 
