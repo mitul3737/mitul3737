@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Prepare for AZ-900: Azure App service](https://dev.to/mitul3737/prepare-for-az-900-azure-app-service-1i3f)
 - [Prepare for AZ-900: Blob Storage with Labs.](https://dev.to/mitul3737/prepare-for-az-900-blob-storage-with-labs-nlg)
 - [GCP Architecture and Framework](https://dev.to/mitul3737/gcp-architecture-and-framework-35o2)
 - [Reduce your steps to set up a VM](https://dev.to/mitul3737/reduce-your-steps-to-set-a-vm-92g)
@@ -112,7 +113,6 @@
 - [What is Continuous Integration &lpar;CI&rpar;](https://dev.to/mitul3737/what-is-continuous-integration-ci-mie)
 - [Want to know what is DevOps through a story?](https://dev.to/mitul3737/want-to-know-what-is-devops-through-a-story-40md)
 - [DSA by Mitul in C++, Python, and Java : Bubble sort](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-bubble-sort-3dn0)
-- [DSA by Mitul in C++, Python, and Java : Selection Sort](https://dev.to/mitul3737/dsa-by-mitul-in-c-python-and-java-selection-sort-49l5)
 <!-- BLOG-POST-LIST:END -->
 
 
