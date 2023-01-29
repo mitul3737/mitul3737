@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Change command prompt location from C to D](https://dev.to/mitul3737/change-command-prompt-location-from-c-to-d-4jm8)
 - [Become Microsoft Certified for free](https://dev.to/mitul3737/get-microsoft-certified-for-free-4afe)
 - [Authenticate using Auth0](https://dev.to/mitul3737/authenticate-using-auth0-535l)
 - [Prepare for AZ-900: Azure App service](https://dev.to/mitul3737/prepare-for-az-900-azure-app-service-1i3f)
@@ -112,7 +113,6 @@
 - [Fix your external IP address for your VM using GCP](https://dev.to/mitul3737/fix-your-external-ip-address-for-you-vm-using-gcp-4cbm)
 - [Difference between Internal and External IP address](https://dev.to/mitul3737/difference-between-internal-and-external-ip-address-37mn)
 - [Prepare for Google Cloud Professional Cloud Architect exam : Regions and Zones](https://dev.to/mitul3737/prepare-for-google-cloud-professional-cloud-architect-exam-27kk)
-- [What is Continuous Integration &lpar;CI&rpar;](https://dev.to/mitul3737/what-is-continuous-integration-ci-mie)
 <!-- BLOG-POST-LIST:END -->
 
 
