@@ -103,6 +103,8 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Claim 2 AWS Certification vouchers for free](https://dev.to/aws-builders/claim-2-aws-certification-vouchers-for-free-190d)
+- [Claim 2 AWS Certifications for free](https://dev.to/mitul3737/claim-2-aws-certifications-for-free-4e2o)
 - [Change command prompt location from C to D](https://dev.to/mitul3737/change-command-prompt-location-from-c-to-d-4jm8)
 - [Become Microsoft Certified for free](https://dev.to/mitul3737/get-microsoft-certified-for-free-4afe)
 - [Authenticate using Auth0](https://dev.to/mitul3737/authenticate-using-auth0-535l)
@@ -111,8 +113,6 @@
 - [GCP Architecture and Framework](https://dev.to/mitul3737/gcp-architecture-and-framework-35o2)
 - [Reduce your steps to set up a VM](https://dev.to/mitul3737/reduce-your-steps-to-set-a-vm-92g)
 - [Fix your external IP address for your VM using GCP](https://dev.to/mitul3737/fix-your-external-ip-address-for-you-vm-using-gcp-4cbm)
-- [Difference between Internal and External IP address](https://dev.to/mitul3737/difference-between-internal-and-external-ip-address-37mn)
-- [Prepare for Google Cloud Professional Cloud Architect exam : Regions and Zones](https://dev.to/mitul3737/prepare-for-google-cloud-professional-cloud-architect-exam-27kk)
 <!-- BLOG-POST-LIST:END -->
 
 
