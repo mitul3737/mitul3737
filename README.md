@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/mitul_shahriyar" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/twitter.png" title = "Twitter" alt="" height="30" /></a>
 <a href="https://www.linkedin.com/in/mitul-shahriyar/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-<a href="https://www.instagram.com/shahriyarmitul/" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/instagram.png" alt="" height="30" /></a>
+<a href="https://www.instagram.com/mitul3737/" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/instagram.png" alt="" height="30" /></a>
 <a href="https://www.twitch.tv/mitul_shahriyar" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/twitch.png" alt="" height="30" /></a>
 <a href= "https://youtube.com/@mitul_shahriyar" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/YouTube.png" alt="" height="30" /></a>
 <a href="https://dev.to/mitul3737" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/Devto.png" alt="" height="30" /></a>
