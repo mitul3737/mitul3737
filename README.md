@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Configure your Windows to work with Azure Active Directory](https://dev.to/mitul3737/connect-your-windows-with-azure-active-directory-j0)
 - [Claim 2 AWS Certification vouchers for free](https://dev.to/aws-builders/claim-2-aws-certification-vouchers-for-free-190d)
 - [Claim 2 AWS Certifications for free](https://dev.to/mitul3737/claim-2-aws-certifications-for-free-4e2o)
 - [Change command prompt location from C to D](https://dev.to/mitul3737/change-command-prompt-location-from-c-to-d-4jm8)
@@ -112,7 +113,6 @@
 - [Prepare for AZ-900: Blob Storage with Labs.](https://dev.to/mitul3737/prepare-for-az-900-blob-storage-with-labs-nlg)
 - [GCP Architecture and Framework](https://dev.to/mitul3737/gcp-architecture-and-framework-35o2)
 - [Reduce your steps to set up a VM](https://dev.to/mitul3737/reduce-your-steps-to-set-a-vm-92g)
-- [Fix your external IP address for your VM using GCP](https://dev.to/mitul3737/fix-your-external-ip-address-for-you-vm-using-gcp-4cbm)
 <!-- BLOG-POST-LIST:END -->
 
 
