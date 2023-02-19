@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Enter into your folders which has space and command prompt or power shell gives error](https://dev.to/mitul3737/enter-into-your-folders-which-has-space-and-command-prompt-or-power-shell-gives-error-58df)
 - [Configure your Windows to work with Azure Active Directory](https://dev.to/mitul3737/connect-your-windows-with-azure-active-directory-j0)
 - [Claim 2 AWS Certification vouchers for free](https://dev.to/aws-builders/claim-2-aws-certification-vouchers-for-free-190d)
 - [Claim 2 AWS Certifications for free](https://dev.to/mitul3737/claim-2-aws-certifications-for-free-4e2o)
@@ -112,7 +113,6 @@
 - [Prepare for AZ-900: Azure App service](https://dev.to/mitul3737/prepare-for-az-900-azure-app-service-1i3f)
 - [Prepare for AZ-900: Blob Storage with Labs.](https://dev.to/mitul3737/prepare-for-az-900-blob-storage-with-labs-nlg)
 - [GCP Architecture and Framework](https://dev.to/mitul3737/gcp-architecture-and-framework-35o2)
-- [Reduce your steps to set up a VM](https://dev.to/mitul3737/reduce-your-steps-to-set-a-vm-92g)
 <!-- BLOG-POST-LIST:END -->
 
 
