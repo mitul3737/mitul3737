@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [DevOps Pre-requisites &lpar;Part 1&rpar;](https://dev.to/mitul3737/devops-pre-requisites-part-1-5fbm)
 - [Enter into your folders which has space and command prompt or power shell gives error](https://dev.to/mitul3737/enter-into-your-folders-which-has-space-and-command-prompt-or-power-shell-gives-error-58df)
 - [Configure your Windows to work with Azure Active Directory](https://dev.to/mitul3737/connect-your-windows-with-azure-active-directory-j0)
 - [Claim 2 AWS Certification vouchers for free](https://dev.to/aws-builders/claim-2-aws-certification-vouchers-for-free-190d)
@@ -112,7 +113,6 @@
 - [Authenticate using Auth0](https://dev.to/mitul3737/authenticate-using-auth0-535l)
 - [Prepare for AZ-900: Azure App service](https://dev.to/mitul3737/prepare-for-az-900-azure-app-service-1i3f)
 - [Prepare for AZ-900: Blob Storage with Labs.](https://dev.to/mitul3737/prepare-for-az-900-blob-storage-with-labs-nlg)
-- [GCP Architecture and Framework](https://dev.to/mitul3737/gcp-architecture-and-framework-35o2)
 <!-- BLOG-POST-LIST:END -->
 
 
