@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Transport Layer Security &lpar;TLS&rpar;, Public &amp; Private Keys](https://dev.to/mitul3737/transport-layer-security-tls-public-private-keys-3k2d)
 - [Create a free Azure Account](https://dev.to/mitul3737/create-a-free-azure-account-1ibn)
 - [DevOps Pre-requisites &lpar;Part 1&rpar;](https://dev.to/mitul3737/devops-pre-requisites-part-1-5fbm)
 - [Enter into your folders which has space and command prompt or power shell gives error](https://dev.to/mitul3737/enter-into-your-folders-which-has-space-and-command-prompt-or-power-shell-gives-error-58df)
@@ -112,7 +113,6 @@
 - [Change command prompt location from C to D](https://dev.to/mitul3737/change-command-prompt-location-from-c-to-d-4jm8)
 - [Become Microsoft Certified for free](https://dev.to/mitul3737/get-microsoft-certified-for-free-4afe)
 - [Authenticate using Auth0](https://dev.to/mitul3737/authenticate-using-auth0-535l)
-- [Prepare for AZ-900: Azure App service](https://dev.to/mitul3737/prepare-for-az-900-azure-app-service-1i3f)
 <!-- BLOG-POST-LIST:END -->
 
 
