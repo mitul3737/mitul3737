@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [DevOps Prerequisite &lpar;Part 2&rpar;:Networking basics](https://dev.to/mitul3737/devops-prerequisite-part-2networking-basics-48ok)
 - [CKS Challenge 1](https://dev.to/mitul3737/cks-challenge-1-4onl)
 - [CKS Exam prep &lpar;Part 1&rpar;](https://dev.to/mitul3737/cks-exam-prep-part-1-1a6l)
 - [Transport Layer Security &lpar;TLS&rpar;, Public &amp; Private Keys](https://dev.to/mitul3737/transport-layer-security-tls-public-private-keys-3k2d)
@@ -112,7 +113,6 @@
 - [Configure your Windows to work with Azure Active Directory](https://dev.to/mitul3737/connect-your-windows-with-azure-active-directory-j0)
 - [Claim 2 AWS Certification vouchers for free](https://dev.to/aws-builders/claim-2-aws-certification-vouchers-for-free-190d)
 - [Claim 2 AWS Certifications for free](https://dev.to/mitul3737/claim-2-aws-certifications-for-free-4e2o)
-- [Change command prompt location from C to D](https://dev.to/mitul3737/change-command-prompt-location-from-c-to-d-4jm8)
 <!-- BLOG-POST-LIST:END -->
 
 
