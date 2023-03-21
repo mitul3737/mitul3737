@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [DevOps Prerequisite &lpar;Part 4&rpar;: Git and GitHub](https://dev.to/mitul3737/devops-prerequisite-part-4-git-and-github-g9p)
 - [DevOps Prerequisite &lpar;Part 3&rpar;: Application basics and Java](https://dev.to/mitul3737/devops-prerequisite-part-3-application-basics-and-java-pn0)
 - [DevOps Prerequisite &lpar;Part 3&rpar;: Application basics &lpar;NodeJs &amp; Python&rpar;](https://dev.to/mitul3737/devops-prerequisite-part-3-application-basics-nodejs-python-50e1)
 - [DevOps Prerequisite &lpar;Part 2&rpar;:Networking basics](https://dev.to/mitul3737/devops-prerequisite-part-2networking-basics-48ok)
@@ -112,7 +113,6 @@
 - [Create a free Azure Account](https://dev.to/mitul3737/create-a-free-azure-account-1ibn)
 - [DevOps Pre-requisites &lpar;Part 1&rpar;](https://dev.to/mitul3737/devops-pre-requisites-part-1-5fbm)
 - [Enter into your folders which has space and command prompt or power shell gives error](https://dev.to/mitul3737/enter-into-your-folders-which-has-space-and-command-prompt-or-power-shell-gives-error-58df)
-- [Configure your Windows to work with Azure Active Directory](https://dev.to/mitul3737/connect-your-windows-with-azure-active-directory-j0)
 <!-- BLOG-POST-LIST:END -->
 
 
