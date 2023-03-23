@@ -103,7 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Prerequisite &lpar;Part 4&rpar;: Web server](https://dev.to/mitul3737/devops-prerequisite-part-4-web-server-4768)
+- [DevOps Prerequisite &lpar;Part 5&rpar;: Web server](https://dev.to/mitul3737/devops-prerequisite-part-4-web-server-4768)
 - [DevOps Prerequisite &lpar;Part 4&rpar;: Git and GitHub](https://dev.to/mitul3737/devops-prerequisite-part-4-git-and-github-g9p)
 - [DevOps Prerequisite &lpar;Part 3&rpar;: Application basics and Java](https://dev.to/mitul3737/devops-prerequisite-part-3-application-basics-and-java-pn0)
 - [DevOps Prerequisite &lpar;Part 3&rpar;: Application basics &lpar;NodeJs &amp; Python&rpar;](https://dev.to/mitul3737/devops-prerequisite-part-3-application-basics-nodejs-python-50e1)
