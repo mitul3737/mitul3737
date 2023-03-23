@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [DevOps Prerequisite &lpar;Part 4&rpar;: Web server](https://dev.to/mitul3737/devops-prerequisite-part-4-web-server-4768)
 - [DevOps Prerequisite &lpar;Part 4&rpar;: Git and GitHub](https://dev.to/mitul3737/devops-prerequisite-part-4-git-and-github-g9p)
 - [DevOps Prerequisite &lpar;Part 3&rpar;: Application basics and Java](https://dev.to/mitul3737/devops-prerequisite-part-3-application-basics-and-java-pn0)
 - [DevOps Prerequisite &lpar;Part 3&rpar;: Application basics &lpar;NodeJs &amp; Python&rpar;](https://dev.to/mitul3737/devops-prerequisite-part-3-application-basics-nodejs-python-50e1)
@@ -112,7 +113,6 @@
 - [Transport Layer Security &lpar;TLS&rpar;, Public &amp; Private Keys](https://dev.to/mitul3737/transport-layer-security-tls-public-private-keys-3k2d)
 - [Create a free Azure Account](https://dev.to/mitul3737/create-a-free-azure-account-1ibn)
 - [DevOps Pre-requisites &lpar;Part 1&rpar;](https://dev.to/mitul3737/devops-pre-requisites-part-1-5fbm)
-- [Enter into your folders which has space and command prompt or power shell gives error](https://dev.to/mitul3737/enter-into-your-folders-which-has-space-and-command-prompt-or-power-shell-gives-error-58df)
 <!-- BLOG-POST-LIST:END -->
 
 
