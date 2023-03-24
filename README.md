@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [DevOps Prerequisite &lpar;Part 6&rpar;: Database](https://dev.to/mitul3737/devops-prerequisite-part-6-database-hhd)
 - [DevOps Prerequisite &lpar;Part 5&rpar;: Web server](https://dev.to/mitul3737/devops-prerequisite-part-4-web-server-4768)
 - [DevOps Prerequisite &lpar;Part 4&rpar;: Git and GitHub](https://dev.to/mitul3737/devops-prerequisite-part-4-git-and-github-g9p)
 - [DevOps Prerequisite &lpar;Part 3&rpar;: Application basics and Java](https://dev.to/mitul3737/devops-prerequisite-part-3-application-basics-and-java-pn0)
@@ -112,7 +113,6 @@
 - [CKS Exam prep &lpar;Part 1&rpar;](https://dev.to/mitul3737/cks-exam-prep-part-1-1a6l)
 - [Transport Layer Security &lpar;TLS&rpar;, Public &amp; Private Keys](https://dev.to/mitul3737/transport-layer-security-tls-public-private-keys-3k2d)
 - [Create a free Azure Account](https://dev.to/mitul3737/create-a-free-azure-account-1ibn)
-- [DevOps Pre-requisites &lpar;Part 1&rpar;](https://dev.to/mitul3737/devops-pre-requisites-part-1-5fbm)
 <!-- BLOG-POST-LIST:END -->
 
 
