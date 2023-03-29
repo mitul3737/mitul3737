@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [AZ-104: Microsoft Azure Administrator Preparation &lpar;Part 1&rpar;](https://dev.to/mitul3737/az-104-microsoft-azure-administrator-preparation-part-1-2k42)
 - [DevOps Prerequisite &lpar;Part 7&rpar;: YAML &amp; Json](https://dev.to/mitul3737/devops-prerequisite-part-7-yaml-json-3dc2)
 - [DevOps Prerequisite &lpar;Part 6&rpar;: Database](https://dev.to/mitul3737/devops-prerequisite-part-6-database-hhd)
 - [DevOps Prerequisite &lpar;Part 5&rpar;: Web server](https://dev.to/mitul3737/devops-prerequisite-part-4-web-server-4768)
@@ -112,7 +113,6 @@
 - [DevOps Prerequisite &lpar;Part 2&rpar;:Networking basics](https://dev.to/mitul3737/devops-prerequisite-part-2networking-basics-48ok)
 - [CKS Challenge 1](https://dev.to/mitul3737/cks-challenge-1-4onl)
 - [CKS Exam prep &lpar;Part 1&rpar;](https://dev.to/mitul3737/cks-exam-prep-part-1-1a6l)
-- [Transport Layer Security &lpar;TLS&rpar;, Public &amp; Private Keys](https://dev.to/mitul3737/transport-layer-security-tls-public-private-keys-3k2d)
 <!-- BLOG-POST-LIST:END -->
 
 
