@@ -103,6 +103,8 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Activate your AWS Account](https://dev.to/mitul3737/activate-your-aws-account-1dld)
+- [Activate your AWS account](https://dev.to/aws-builders/activate-your-aws-account-2o64)
 - [Add existing remote repositories to your git bash](https://dev.to/mitul3737/add-existing-remote-repositories-to-your-git-bash-5547)
 - [AZ-104: Microsoft Azure Administrator Preparation &lpar;Part 1&rpar;](https://dev.to/mitul3737/az-104-microsoft-azure-administrator-preparation-part-1-2k42)
 - [DevOps Prerequisite &lpar;Part 7&rpar;: YAML &amp; Json](https://dev.to/mitul3737/devops-prerequisite-part-7-yaml-json-3dc2)
@@ -111,8 +113,6 @@
 - [DevOps Prerequisite &lpar;Part 4&rpar;: Git and GitHub](https://dev.to/mitul3737/devops-prerequisite-part-4-git-and-github-g9p)
 - [DevOps Prerequisite &lpar;Part 3&rpar;: Application basics and Java](https://dev.to/mitul3737/devops-prerequisite-part-3-application-basics-and-java-pn0)
 - [DevOps Prerequisite &lpar;Part 3&rpar;: Application basics &lpar;NodeJs &amp; Python&rpar;](https://dev.to/mitul3737/devops-prerequisite-part-3-application-basics-nodejs-python-50e1)
-- [DevOps Prerequisite &lpar;Part 2&rpar;:Networking basics](https://dev.to/mitul3737/devops-prerequisite-part-2networking-basics-48ok)
-- [CKS Challenge 1](https://dev.to/mitul3737/cks-challenge-1-4onl)
 <!-- BLOG-POST-LIST:END -->
 
 
