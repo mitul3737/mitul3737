@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Artificial Intelligence vs Machine learning vs Deep Learning vs Generative AI](https://dev.to/mitul3737/artificial-intelligence-vs-machine-learning-vs-deep-learning-vs-generative-ai-7ae)
 - [Activate your AWS Account](https://dev.to/mitul3737/activate-your-aws-account-1dld)
 - [Activate your AWS account](https://dev.to/aws-builders/activate-your-aws-account-2o64)
 - [Add existing remote repositories to your git bash](https://dev.to/mitul3737/add-existing-remote-repositories-to-your-git-bash-5547)
@@ -112,7 +113,6 @@
 - [DevOps Prerequisite &lpar;Part 5&rpar;: Web server](https://dev.to/mitul3737/devops-prerequisite-part-4-web-server-4768)
 - [DevOps Prerequisite &lpar;Part 4&rpar;: Git and GitHub](https://dev.to/mitul3737/devops-prerequisite-part-4-git-and-github-g9p)
 - [DevOps Prerequisite &lpar;Part 3&rpar;: Application basics and Java](https://dev.to/mitul3737/devops-prerequisite-part-3-application-basics-and-java-pn0)
-- [DevOps Prerequisite &lpar;Part 3&rpar;: Application basics &lpar;NodeJs &amp; Python&rpar;](https://dev.to/mitul3737/devops-prerequisite-part-3-application-basics-nodejs-python-50e1)
 <!-- BLOG-POST-LIST:END -->
 
 
