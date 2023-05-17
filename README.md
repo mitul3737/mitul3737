@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Zero-Shot Learning Through Cross-Modal Transfer by ML Paper Reading Club Bangladesh](https://www.youtube.com/watch?v=7wNhy2i9X10)
 - [Unable to update X : status-code=409 kind=snap-changes-conflict message= snap &quot;x&quot; has &quot;auto-refesh&quot; change In Progress](https://dev.to/mitul3737/unable-to-update-x-status-code409-kindsnap-changes-conflict-message-snap-x-has-auto-refesh-change-in-progress-3oai)
 - [Artificial Intelligence vs Machine learning vs Deep Learning vs Generative AI](https://dev.to/mitul3737/artificial-intelligence-vs-machine-learning-vs-deep-learning-vs-generative-ai-7ae)
 - [Activate your AWS Account](https://dev.to/mitul3737/activate-your-aws-account-1dld)
@@ -112,7 +113,6 @@
 - [DevOps Prerequisite &lpar;Part 7&rpar;: YAML &amp; Json](https://dev.to/mitul3737/devops-prerequisite-part-7-yaml-json-3dc2)
 - [DevOps Prerequisite &lpar;Part 6&rpar;: Database](https://dev.to/mitul3737/devops-prerequisite-part-6-database-hhd)
 - [DevOps Prerequisite &lpar;Part 5&rpar;: Web server](https://dev.to/mitul3737/devops-prerequisite-part-4-web-server-4768)
-- [DevOps Prerequisite &lpar;Part 4&rpar;: Git and GitHub](https://dev.to/mitul3737/devops-prerequisite-part-4-git-and-github-g9p)
 <!-- BLOG-POST-LIST:END -->
 
 
