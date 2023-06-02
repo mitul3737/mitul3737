@@ -119,7 +119,7 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Python     1 min           ████████████████████████▓   98.75 %
 Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
