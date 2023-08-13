@@ -120,9 +120,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           47 mins         ████████████████████████▒   97.42 %
-GitIgnore file   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-Jupyter          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python    32 mins         █████████████████████████   99.96 %
+Jupyter   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
