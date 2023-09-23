@@ -120,7 +120,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   0 secs          █████████████████████▒░░░   85.39 %
+CMake    0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 %
 ```
 
 <!--END_SECTION:waka-->
