@@ -103,7 +103,16 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [AWS IAM &lpar;Identity and Access Management&rpar;](https://dev.to/mitul3737/aws-iam-identity-and-access-management-28ej)
 - [Zero-Shot Learning Through Cross-Modal Transfer by ML Paper Reading Club Bangladesh](https://www.youtube.com/watch?v=7wNhy2i9X10)
+- [Unable to update X : status-code=409 kind=snap-changes-conflict message= snap &quot;x&quot; has &quot;auto-refesh&quot; change In Progress](https://dev.to/mitul3737/unable-to-update-x-status-code409-kindsnap-changes-conflict-message-snap-x-has-auto-refesh-change-in-progress-3oai)
+- [Artificial Intelligence vs Machine learning vs Deep Learning vs Generative AI](https://dev.to/mitul3737/artificial-intelligence-vs-machine-learning-vs-deep-learning-vs-generative-ai-7ae)
+- [Activate your AWS Account](https://dev.to/mitul3737/activate-your-aws-account-1dld)
+- [Activate your AWS account](https://dev.to/aws-builders/activate-your-aws-account-2o64)
+- [Add existing remote repositories to your git bash](https://dev.to/mitul3737/add-existing-remote-repositories-to-your-git-bash-5547)
+- [AZ-104: Microsoft Azure Administrator Preparation &lpar;Part 1&rpar;](https://dev.to/mitul3737/az-104-microsoft-azure-administrator-preparation-part-1-2k42)
+- [DevOps Prerequisite &lpar;Part 7&rpar;: YAML &amp; Json](https://dev.to/mitul3737/devops-prerequisite-part-7-yaml-json-3dc2)
+- [DevOps Prerequisite &lpar;Part 6&rpar;: Database](https://dev.to/mitul3737/devops-prerequisite-part-6-database-hhd)
 <!-- BLOG-POST-LIST:END -->
 
 
