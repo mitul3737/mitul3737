@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [MBA with me : Mitul Shahriyar &lpar; Part 2 &rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-2--1hdi)
 - [MBA with me : Mitul Shahriyar &lpar; Part 1 &rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-1--4ncm)
 - [AWS IAM &lpar;Identity and Access Management&rpar;](https://dev.to/mitul3737/aws-iam-identity-and-access-management-28ej)
 - [Zero-Shot Learning Through Cross-Modal Transfer by ML Paper Reading Club Bangladesh](https://www.youtube.com/watch?v=7wNhy2i9X10)
@@ -112,7 +113,6 @@
 - [Activate your AWS account](https://dev.to/aws-builders/activate-your-aws-account-2o64)
 - [Add existing remote repositories to your git bash](https://dev.to/mitul3737/add-existing-remote-repositories-to-your-git-bash-5547)
 - [AZ-104: Microsoft Azure Administrator Preparation &lpar;Part 1&rpar;](https://dev.to/mitul3737/az-104-microsoft-azure-administrator-preparation-part-1-2k42)
-- [DevOps Prerequisite &lpar;Part 7&rpar;: YAML &amp; Json](https://dev.to/mitul3737/devops-prerequisite-part-7-yaml-json-3dc2)
 <!-- BLOG-POST-LIST:END -->
 
 
