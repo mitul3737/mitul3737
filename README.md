@@ -120,8 +120,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           4 mins          ███████████████████████▒░   93.17 %
-ActionScript 3   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
