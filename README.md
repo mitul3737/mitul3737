@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [MBA with me : Mitul Shahriyar &lpar; Part 4 &rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-4--jng)
 - [MBA with me : Mitul Shahriyar &lpar; Part 3 &rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-3--4pb3)
 - [MBA with me : Mitul Shahriyar &lpar; Part 2 &rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-2--1hdi)
 - [MBA with me : Mitul Shahriyar &lpar; Part 1 &rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-1--4ncm)
@@ -112,7 +113,6 @@
 - [Artificial Intelligence vs Machine learning vs Deep Learning vs Generative AI](https://dev.to/mitul3737/artificial-intelligence-vs-machine-learning-vs-deep-learning-vs-generative-ai-7ae)
 - [Activate your AWS Account](https://dev.to/mitul3737/activate-your-aws-account-1dld)
 - [Activate your AWS account](https://dev.to/aws-builders/activate-your-aws-account-2o64)
-- [Add existing remote repositories to your git bash](https://dev.to/mitul3737/add-existing-remote-repositories-to-your-git-bash-5547)
 <!-- BLOG-POST-LIST:END -->
 
 
