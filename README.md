@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [MBA with me : Mitul Shahriyar &lpar; Part 6&rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-6-40o3)
 - [Generative AI in Google Cloud](https://dev.to/mitul3737/generative-ai-in-google-cloud-4d8f)
 - [MBA with me : Mitul Shahriyar &lpar; Part 5 &rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-5--4o2i)
 - [MBA with me : Mitul Shahriyar &lpar; Part 4 &rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-4--jng)
@@ -112,7 +113,6 @@
 - [AWS IAM &lpar;Identity and Access Management&rpar;](https://dev.to/mitul3737/aws-iam-identity-and-access-management-28ej)
 - [Zero-Shot Learning Through Cross-Modal Transfer by ML Paper Reading Club Bangladesh](https://www.youtube.com/watch?v=7wNhy2i9X10)
 - [Unable to update X : status-code=409 kind=snap-changes-conflict message= snap &quot;x&quot; has &quot;auto-refesh&quot; change In Progress](https://dev.to/mitul3737/unable-to-update-x-status-code409-kindsnap-changes-conflict-message-snap-x-has-auto-refesh-change-in-progress-3oai)
-- [Artificial Intelligence vs Machine learning vs Deep Learning vs Generative AI](https://dev.to/mitul3737/artificial-intelligence-vs-machine-learning-vs-deep-learning-vs-generative-ai-7ae)
 <!-- BLOG-POST-LIST:END -->
 
 
