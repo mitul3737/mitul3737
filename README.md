@@ -112,7 +112,7 @@
 - [MBA with me : Mitul Shahriyar &lpar; Part 2 &rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-2--1hdi)
 - [MBA with me : Mitul Shahriyar &lpar; Part 1 &rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-1--4ncm)
 - [AWS IAM &lpar;Identity and Access Management&rpar;](https://dev.to/mitul3737/aws-iam-identity-and-access-management-28ej)
-- [Zero-Shot Learning Through Cross-Modal Transfer by ML Paper Reading Club Bangladesh](https://www.youtube.com/watch?v=7wNhy2i9X10)
+- [Unable to update X : status-code=409 kind=snap-changes-conflict message= snap &quot;x&quot; has &quot;auto-refesh&quot; change In Progress](https://dev.to/mitul3737/unable-to-update-x-status-code409-kindsnap-changes-conflict-message-snap-x-has-auto-refesh-change-in-progress-3oai)
 <!-- BLOG-POST-LIST:END -->
 
 
