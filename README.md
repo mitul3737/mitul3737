@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [QNA - Mitul Shahriyar](https://www.youtube.com/watch?v=McvABUHsIz4)
 - [Practice Optimizing Prompts](https://dev.to/mitul3737/practice-optimizing-prompts-10ho)
 - [MBA with me : Mitul Shahriyar &lpar; Part 7&rpar; Managing the Cash Flow](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-7-managing-the-cash-flow-52o2)
 - [MBA with me : Mitul Shahriyar &lpar; Part 6&rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-6-40o3)
@@ -112,7 +113,6 @@
 - [MBA with me : Mitul Shahriyar &lpar; Part 3 &rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-3--4pb3)
 - [MBA with me : Mitul Shahriyar &lpar; Part 2 &rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-2--1hdi)
 - [MBA with me : Mitul Shahriyar &lpar; Part 1 &rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-1--4ncm)
-- [AWS IAM &lpar;Identity and Access Management&rpar;](https://dev.to/mitul3737/aws-iam-identity-and-access-management-28ej)
 <!-- BLOG-POST-LIST:END -->
 
 
