@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Power of Auth0: Streamlining Authentication and Authorization for Modern Apps](https://dev.to/mitul3737/unlocking-the-power-of-auth0-streamlining-authentication-and-authorization-for-modern-apps-2o0h)
 - [QNA- Mitul Shahriyar](https://www.youtube.com/watch?v=_qLTwscU9o8)
 - [MBA with me : Mitul Shahriyar &lpar; Part 9&rpar; Projecting Financial Management](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-9-projecting-financial-management-55de)
 - [QNA - Mitul Shahriyar](https://www.youtube.com/watch?v=McvABUHsIz4)
@@ -112,7 +113,6 @@
 - [Generative AI in Google Cloud](https://dev.to/mitul3737/generative-ai-in-google-cloud-4d8f)
 - [MBA with me : Mitul Shahriyar &lpar; Part 5 &rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-5--4o2i)
 - [MBA with me : Mitul Shahriyar &lpar; Part 4 &rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-4--jng)
-- [MBA with me : Mitul Shahriyar &lpar; Part 3 &rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-3--4pb3)
 <!-- BLOG-POST-LIST:END -->
 
 
