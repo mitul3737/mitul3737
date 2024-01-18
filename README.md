@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [QNA- Mitul Shahriyar](https://www.youtube.com/watch?v=_qLTwscU9o8)
 - [MBA with me : Mitul Shahriyar &lpar; Part 9&rpar; Projecting Financial Management](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-9-projecting-financial-management-55de)
 - [QNA - Mitul Shahriyar](https://www.youtube.com/watch?v=McvABUHsIz4)
 - [Practice Optimizing Prompts](https://dev.to/mitul3737/practice-optimizing-prompts-10ho)
@@ -112,7 +113,6 @@
 - [MBA with me : Mitul Shahriyar &lpar; Part 5 &rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-5--4o2i)
 - [MBA with me : Mitul Shahriyar &lpar; Part 4 &rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-4--jng)
 - [MBA with me : Mitul Shahriyar &lpar; Part 3 &rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-3--4pb3)
-- [MBA with me : Mitul Shahriyar &lpar; Part 2 &rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-2--1hdi)
 <!-- BLOG-POST-LIST:END -->
 
 
