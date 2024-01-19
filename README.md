@@ -103,8 +103,8 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of Auth0: Streamlining Authentication and Authorization for Modern Apps](https://dev.to/mitul3737/unlocking-the-power-of-auth0-streamlining-authentication-and-authorization-for-modern-apps-2o0h)
 - [QNA- Mitul Shahriyar](https://www.youtube.com/watch?v=_qLTwscU9o8)
+- [Unlocking the Power of Auth0: Streamlining Authentication and Authorization for Modern Apps](https://dev.to/mitul3737/unlocking-the-power-of-auth0-streamlining-authentication-and-authorization-for-modern-apps-2o0h)
 - [MBA with me : Mitul Shahriyar &lpar; Part 9&rpar; Projecting Financial Management](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-9-projecting-financial-management-55de)
 - [QNA - Mitul Shahriyar](https://www.youtube.com/watch?v=McvABUHsIz4)
 - [Practice Optimizing Prompts](https://dev.to/mitul3737/practice-optimizing-prompts-10ho)
