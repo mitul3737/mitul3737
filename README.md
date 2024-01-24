@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [TinyML - Harvard University : Part 1](https://dev.to/mitul3737/tinyml-harvard-university-part-1-16id)
 - [QNA- Mitul Shahriyar](https://www.youtube.com/watch?v=_qLTwscU9o8)
 - [Unlocking the Power of Auth0: Streamlining Authentication and Authorization for Modern Apps](https://dev.to/mitul3737/unlocking-the-power-of-auth0-streamlining-authentication-and-authorization-for-modern-apps-2o0h)
 - [MBA with me : Mitul Shahriyar &lpar; Part 9&rpar; Projecting Financial Management](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-9-projecting-financial-management-55de)
@@ -112,7 +113,6 @@
 - [MBA with me : Mitul Shahriyar &lpar; Part 6&rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-6-40o3)
 - [Generative AI in Google Cloud](https://dev.to/mitul3737/generative-ai-in-google-cloud-4d8f)
 - [MBA with me : Mitul Shahriyar &lpar; Part 5 &rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-5--4o2i)
-- [MBA with me : Mitul Shahriyar &lpar; Part 4 &rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-4--jng)
 <!-- BLOG-POST-LIST:END -->
 
 
