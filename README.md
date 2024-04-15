@@ -120,7 +120,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   37 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
