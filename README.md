@@ -104,15 +104,15 @@
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
 - [TinyML - Harvard University : Part 1](https://dev.to/mitul3737/tinyml-harvard-university-part-1-16id)
+- [QNA- Mitul Shahriyar](https://www.youtube.com/watch?v=_qLTwscU9o8)
 - [Unlocking the Power of Auth0: Streamlining Authentication and Authorization for Modern Apps](https://dev.to/mitul3737/unlocking-the-power-of-auth0-streamlining-authentication-and-authorization-for-modern-apps-2o0h)
 - [MBA with me : Mitul Shahriyar &lpar; Part 9&rpar; Projecting Financial Management](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-9-projecting-financial-management-55de)
+- [QNA - Mitul Shahriyar](https://www.youtube.com/watch?v=McvABUHsIz4)
 - [Practice Optimizing Prompts](https://dev.to/mitul3737/practice-optimizing-prompts-10ho)
 - [MBA with me : Mitul Shahriyar &lpar; Part 7&rpar; Managing the Cash Flow](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-7-managing-the-cash-flow-52o2)
 - [MBA with me : Mitul Shahriyar &lpar; Part 6&rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-6-40o3)
 - [Generative AI in Google Cloud](https://dev.to/mitul3737/generative-ai-in-google-cloud-4d8f)
 - [MBA with me : Mitul Shahriyar &lpar; Part 5 &rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-5--4o2i)
-- [MBA with me : Mitul Shahriyar &lpar; Part 4 &rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-4--jng)
-- [MBA with me : Mitul Shahriyar &lpar; Part 3 &rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-3--4pb3)
 <!-- BLOG-POST-LIST:END -->
 
 
