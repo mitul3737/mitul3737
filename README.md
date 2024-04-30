@@ -103,16 +103,16 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
-- [TinyML - Harvard University : Part 1](https://dev.to/mitul3737/tinyml-harvard-university-part-1-16id)
-- [QNA- Mitul Shahriyar](https://www.youtube.com/watch?v=_qLTwscU9o8)
-- [Unlocking the Power of Auth0: Streamlining Authentication and Authorization for Modern Apps](https://dev.to/mitul3737/unlocking-the-power-of-auth0-streamlining-authentication-and-authorization-for-modern-apps-2o0h)
-- [MBA with me : Mitul Shahriyar &lpar; Part 9&rpar; Projecting Financial Management](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-9-projecting-financial-management-55de)
-- [QNA - Mitul Shahriyar](https://www.youtube.com/watch?v=McvABUHsIz4)
-- [Practice Optimizing Prompts](https://dev.to/mitul3737/practice-optimizing-prompts-10ho)
-- [MBA with me : Mitul Shahriyar &lpar; Part 7&rpar; Managing the Cash Flow](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-7-managing-the-cash-flow-52o2)
-- [MBA with me : Mitul Shahriyar &lpar; Part 6&rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-6-40o3)
-- [Generative AI in Google Cloud](https://dev.to/mitul3737/generative-ai-in-google-cloud-4d8f)
-- [MBA with me : Mitul Shahriyar &lpar; Part 5 &rpar;](https://dev.to/mitul3737/mba-with-me-mitul-shahriyar-part-5--4o2i)
+- [Transform Your AI Strategy with Google Gemma by Jay Thakkar](https://www.youtube.com/watch?v=j4vcW6fsFCQ)
+- [KuberTENes Birthday Bash Bangladesh](https://www.youtube.com/watch?v=xEtbmO4Oby4)
+- [Transform Your AI Strategy with Google Gemma](https://www.youtube.com/watch?v=ZHwBXHavtDU)
+- [Placement Groups - AWS Mania](https://www.youtube.com/watch?v=rduGiBBkXp8)
+- [Clone Remote repository](https://www.youtube.com/watch?v=GYP8ML3dU0Y)
+- [Install git and initialize git](https://www.youtube.com/watch?v=Bjrl44yGEYE)
+- [Branches checkout, push branch](https://www.youtube.com/watch?v=m8-0dlref6w)
+- [Initialize a git repository](https://www.youtube.com/watch?v=PzrSDulNRfc)
+- [Merge Conflicts](https://www.youtube.com/watch?v=G4BCRbz2pQM)
+- [Rebase](https://www.youtube.com/watch?v=lE4aAlGdwAM)
 <!-- BLOG-POST-LIST:END -->
 
 
