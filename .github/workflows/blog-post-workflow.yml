@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "10"
-                feed_list: "https://dev.to/feed/mitul3737 , https://mitul3737.medium.com/feed , https://www.youtube.com/feeds/videos.xml?channel_id=UCz5O3xDcr4Wxh-p2Zj-re_A ,  "
+                feed_list: " https://mitul-shahriyar.hashnode.dev/feed , https://dev.to/feed/mitul3737 , https://mitul3737.medium.com/feed , https://www.youtube.com/feeds/videos.xml?channel_id=UCD9-fu8rIWghQEGDDzx9yHA ,  "
