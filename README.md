@@ -103,6 +103,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Season of AI - Getting started with Azure AI Studio](https://www.youtube.com/watch?v=n9-gSBCn65A)
 - [Transform Your AI Strategy with Google Gemma by Jay Thakkar](https://www.youtube.com/watch?v=j4vcW6fsFCQ)
 - [KuberTENes Birthday Bash Bangladesh](https://www.youtube.com/watch?v=xEtbmO4Oby4)
 - [Transform Your AI Strategy with Google Gemma](https://www.youtube.com/watch?v=ZHwBXHavtDU)
@@ -112,7 +113,6 @@
 - [Branches checkout, push branch](https://www.youtube.com/watch?v=m8-0dlref6w)
 - [Initialize a git repository](https://www.youtube.com/watch?v=PzrSDulNRfc)
 - [Merge Conflicts](https://www.youtube.com/watch?v=G4BCRbz2pQM)
-- [Rebase](https://www.youtube.com/watch?v=lE4aAlGdwAM)
 <!-- BLOG-POST-LIST:END -->
 
 
