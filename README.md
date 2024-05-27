@@ -32,7 +32,7 @@
 
 ### About Me 
 🎓 I am a 3rd year student pursuing Bachelors in Computer Science (CS) </br>
-⛵ I have been working with Cloud, DevOps,AI, ML and Quantuum Computing </br>
+⛵ I have been working with Cloud, DevOps,AI, ML and Quantum Computing </br>
 😄 Pronouns: He/him/his</br>
 
 
