@@ -62,8 +62,8 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
-- [Connect Azure Virtual Networks with VNet Peering Part 2](https://www.youtube.com/watch?v=SKzFID4V89g)
 - [AWS Mania: Introduction to AWS Code Commit](https://www.youtube.com/watch?v=UIVIFohc8tc)
+- [Connect Azure Virtual Networks with VNet Peering Part 2](https://www.youtube.com/watch?v=SKzFID4V89g)
 - [Connect Azure Virtual Networks with VNet Peering Part 1](https://www.youtube.com/watch?v=TmLWoyfu7VQ)
 - [Deploying And Monitoring Azure App Service Web Apps &lpar;Part 3&rpar;](https://www.youtube.com/watch?v=Bh0MZ93-VHk)
 - [Deploying And Monitoring Azure App Service Web Apps Part 2](https://www.youtube.com/watch?v=mloa-kWLTHo)
