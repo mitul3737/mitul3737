@@ -62,12 +62,12 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Deploying And Monitoring Azure App Service Web Apps Part 2](https://www.youtube.com/watch?v=mloa-kWLTHo)
 - [Deploying And Monitoring Azure App Service Web Apps Part 1](https://www.youtube.com/watch?v=xGkDQ4nrKd8)
 - [AWS Mania: Introduction to AWS Code Commit](https://www.youtube.com/watch?v=UIVIFohc8tc)
 - [Connect Azure Virtual Networks with VNet Peering Part 2](https://www.youtube.com/watch?v=SKzFID4V89g)
 - [Connect Azure Virtual Networks with VNet Peering Part 1](https://www.youtube.com/watch?v=TmLWoyfu7VQ)
 - [Deploying And Monitoring Azure App Service Web Apps &lpar;Part 3&rpar;](https://www.youtube.com/watch?v=Bh0MZ93-VHk)
-- [Deploying And Monitoring Azure App Service Web Apps Part 2](https://www.youtube.com/watch?v=mloa-kWLTHo)
 - [Season of AI - Getting started with Azure AI Studio](https://www.youtube.com/watch?v=n9-gSBCn65A)
 - [Transform Your AI Strategy with Google Gemma by Jay Thakkar](https://www.youtube.com/watch?v=j4vcW6fsFCQ)
 - [KuberTENes Birthday Bash Bangladesh](https://www.youtube.com/watch?v=xEtbmO4Oby4)
