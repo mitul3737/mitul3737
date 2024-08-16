@@ -62,6 +62,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [AutoML for text and image based data- Google Cloud Vertex AI](https://www.youtube.com/watch?v=Dh9nGv2r9Ro)
 - [Deploying And Monitoring Azure App Service Web Apps &lpar;Part 3&rpar;](https://www.youtube.com/watch?v=Bh0MZ93-VHk)
 - [Deploying And Monitoring Azure App Service Web Apps Part 2](https://www.youtube.com/watch?v=mloa-kWLTHo)
 - [Deploying And Monitoring Azure App Service Web Apps Part 1](https://www.youtube.com/watch?v=xGkDQ4nrKd8)
@@ -71,6 +72,5 @@
 - [Season of AI - Getting started with Azure AI Studio](https://www.youtube.com/watch?v=n9-gSBCn65A)
 - [Transform Your AI Strategy with Google Gemma by Jay Thakkar](https://www.youtube.com/watch?v=j4vcW6fsFCQ)
 - [KuberTENes Birthday Bash Bangladesh](https://www.youtube.com/watch?v=xEtbmO4Oby4)
-- [Placement Groups - AWS Mania](https://www.youtube.com/watch?v=rduGiBBkXp8)
 <!-- BLOG-POST-LIST:END -->
 
