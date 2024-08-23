@@ -62,15 +62,15 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [AWSMania:  EC2 Hibernate](https://www.youtube.com/watch?v=eS6M9IWSkKo)
+- [AWSMania:  Elastic Block Store &lpar;EBS&rpar; Volume](https://www.youtube.com/watch?v=h9R4DVd6etk)
+- [AWSMania: Quickly create an EC2 Instance](https://www.youtube.com/watch?v=NzZCAJBqmFo)
+- [AWSMania : Introduction to Elastic Network Interface &lpar;ENI&rpar;](https://www.youtube.com/watch?v=LFFv3ko4Mes)
+- [AWSMania - Elastic File System &lpar;EFS&rpar;](https://www.youtube.com/watch?v=AYt0nDHQTNY)
+- [AWSMania: Amazon Machine Image &lpar;AMI&rpar;](https://www.youtube.com/watch?v=9llVGk27-tI)
+- [AWSMania: Application Load Balancer  &lpar;ALB&rpar;](https://www.youtube.com/watch?v=2O_58eZBhXQ)
+- [AWSMania : Introduction to AWS CloudShell](https://www.youtube.com/watch?v=03KdB__lMfk)
 - [AutoML for text and image based data- Google Cloud Vertex AI](https://www.youtube.com/watch?v=Dh9nGv2r9Ro)
 - [Deploying And Monitoring Azure App Service Web Apps - Part 3](https://www.youtube.com/watch?v=Bh0MZ93-VHk)
-- [Deploying And Monitoring Azure App Service Web Apps - Part 2](https://www.youtube.com/watch?v=mloa-kWLTHo)
-- [Deploying And Monitoring Azure App Service Web Apps - Part 1](https://www.youtube.com/watch?v=xGkDQ4nrKd8)
-- [AWS Mania: Introduction to AWS Code Commit](https://www.youtube.com/watch?v=UIVIFohc8tc)
-- [Connect Azure Virtual Networks with VNet Peering - Part 2](https://www.youtube.com/watch?v=SKzFID4V89g)
-- [Connect Azure Virtual Networks with VNet Peering - Part 1](https://www.youtube.com/watch?v=TmLWoyfu7VQ)
-- [Transform Your AI Strategy with Google Gemma by Jay Thakkar](https://www.youtube.com/watch?v=j4vcW6fsFCQ)
-- [AWS Mania : Placement Groups](https://www.youtube.com/watch?v=rduGiBBkXp8)
-- [Part 10: Clone Remote repository](https://www.youtube.com/watch?v=GYP8ML3dU0Y)
 <!-- BLOG-POST-LIST:END -->
 
