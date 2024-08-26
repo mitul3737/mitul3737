@@ -62,6 +62,8 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Network Load Balancer &lpar;NLB&rpar; and Gateway Load Balancer &lpar;GLB&rpar;](https://www.youtube.com/watch?v=1jUUW7_uyiA)
+- [SSL Certificates, Connection Draining](https://www.youtube.com/watch?v=RR62ZdDcXU8)
 - [AWSMania:  EC2 Hibernate](https://www.youtube.com/watch?v=eS6M9IWSkKo)
 - [AWSMania:  Elastic Block Store &lpar;EBS&rpar; Volume](https://www.youtube.com/watch?v=h9R4DVd6etk)
 - [AWSMania: Quickly create an EC2 Instance](https://www.youtube.com/watch?v=NzZCAJBqmFo)
@@ -70,7 +72,5 @@
 - [AWSMania: Amazon Machine Image &lpar;AMI&rpar;](https://www.youtube.com/watch?v=9llVGk27-tI)
 - [AWSMania: Application Load Balancer  &lpar;ALB&rpar;](https://www.youtube.com/watch?v=2O_58eZBhXQ)
 - [AWSMania : Introduction to AWS CloudShell](https://www.youtube.com/watch?v=03KdB__lMfk)
-- [AutoML for text and image based data- Google Cloud Vertex AI](https://www.youtube.com/watch?v=Dh9nGv2r9Ro)
-- [Deploying And Monitoring Azure App Service Web Apps - Part 3](https://www.youtube.com/watch?v=Bh0MZ93-VHk)
 <!-- BLOG-POST-LIST:END -->
 
