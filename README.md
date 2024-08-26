@@ -62,6 +62,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Auto Scaling Groups &lpar;ASG&rpar;](https://www.youtube.com/watch?v=JqVcGuirKlk)
 - [Network Load Balancer &lpar;NLB&rpar; and Gateway Load Balancer &lpar;GLB&rpar;](https://www.youtube.com/watch?v=1jUUW7_uyiA)
 - [SSL Certificates, Connection Draining](https://www.youtube.com/watch?v=RR62ZdDcXU8)
 - [AWSMania:  EC2 Hibernate](https://www.youtube.com/watch?v=eS6M9IWSkKo)
@@ -71,6 +72,5 @@
 - [AWSMania - Elastic File System &lpar;EFS&rpar;](https://www.youtube.com/watch?v=AYt0nDHQTNY)
 - [AWSMania: Amazon Machine Image &lpar;AMI&rpar;](https://www.youtube.com/watch?v=9llVGk27-tI)
 - [AWSMania: Application Load Balancer  &lpar;ALB&rpar;](https://www.youtube.com/watch?v=2O_58eZBhXQ)
-- [AWSMania : Introduction to AWS CloudShell](https://www.youtube.com/watch?v=03KdB__lMfk)
 <!-- BLOG-POST-LIST:END -->
 
