@@ -62,9 +62,9 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [AWSMania: Auto Scaling Groups &lpar;ASG&rpar;](https://www.youtube.com/watch?v=JqVcGuirKlk)
 - [AWSMania: SSL Certificates, Connection Draining](https://www.youtube.com/watch?v=RR62ZdDcXU8)
 - [AWSMania: Network Load Balancer &lpar;NLB&rpar; and Gateway Load Balancer &lpar;GLB&rpar;](https://www.youtube.com/watch?v=1jUUW7_uyiA)
-- [AWSMania: Auto Scaling Groups &lpar;ASG&rpar;](https://www.youtube.com/watch?v=JqVcGuirKlk)
 - [AWSMania:  EC2 Hibernate](https://www.youtube.com/watch?v=eS6M9IWSkKo)
 - [AWSMania:  Elastic Block Store &lpar;EBS&rpar; Volume](https://www.youtube.com/watch?v=h9R4DVd6etk)
 - [AWSMania: Quickly create an EC2 Instance](https://www.youtube.com/watch?v=NzZCAJBqmFo)
