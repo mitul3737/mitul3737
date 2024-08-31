@@ -62,6 +62,8 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [All about Gemini, AI Studio &amp; Vertex AI](https://www.youtube.com/watch?v=jmH6N1bG_Tc)
+- [Hands on LLM and RAG](https://www.youtube.com/watch?v=nzfQaH62SqA)
 - [AWSMania: Auto Scaling Groups &lpar;ASG&rpar;](https://www.youtube.com/watch?v=JqVcGuirKlk)
 - [AWSMania: SSL Certificates, Connection Draining](https://www.youtube.com/watch?v=RR62ZdDcXU8)
 - [AWSMania: Network Load Balancer &lpar;NLB&rpar; and Gateway Load Balancer &lpar;GLB&rpar;](https://www.youtube.com/watch?v=1jUUW7_uyiA)
@@ -70,7 +72,5 @@
 - [AWSMania: Quickly create an EC2 Instance](https://www.youtube.com/watch?v=NzZCAJBqmFo)
 - [AWSMania : Introduction to Elastic Network Interface &lpar;ENI&rpar;](https://www.youtube.com/watch?v=LFFv3ko4Mes)
 - [AWSMania - Elastic File System &lpar;EFS&rpar;](https://www.youtube.com/watch?v=AYt0nDHQTNY)
-- [AWSMania: Amazon Machine Image &lpar;AMI&rpar;](https://www.youtube.com/watch?v=9llVGk27-tI)
-- [AWSMania: Application Load Balancer  &lpar;ALB&rpar;](https://www.youtube.com/watch?v=2O_58eZBhXQ)
 <!-- BLOG-POST-LIST:END -->
 
