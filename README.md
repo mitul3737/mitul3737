@@ -62,6 +62,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [AWSMania  : Amazon RDS, Aurora, Elasticache](https://www.youtube.com/watch?v=5q4lgtou3Qc)
 - [AWS System Manager, automation, resource groups](https://www.youtube.com/watch?v=4A4sDBkt7UA)
 - [Hands on LLM and RAG](https://www.youtube.com/watch?v=nzfQaH62SqA)
 - [All about Gemini, AI Studio &amp; Vertex AI](https://www.youtube.com/watch?v=jmH6N1bG_Tc)
@@ -71,6 +72,5 @@
 - [AWSMania:  EC2 Hibernate](https://www.youtube.com/watch?v=eS6M9IWSkKo)
 - [AWSMania:  Elastic Block Store &lpar;EBS&rpar; Volume](https://www.youtube.com/watch?v=h9R4DVd6etk)
 - [AWSMania: Quickly create an EC2 Instance](https://www.youtube.com/watch?v=NzZCAJBqmFo)
-- [AWSMania : Introduction to Elastic Network Interface &lpar;ENI&rpar;](https://www.youtube.com/watch?v=LFFv3ko4Mes)
 <!-- BLOG-POST-LIST:END -->
 
