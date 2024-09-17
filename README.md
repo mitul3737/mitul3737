@@ -62,8 +62,8 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
-- [AWSMania  : Amazon RDS, Aurora, Elasticache](https://www.youtube.com/watch?v=5q4lgtou3Qc)
 - [AWS System Manager, automation, resource groups](https://www.youtube.com/watch?v=4A4sDBkt7UA)
+- [AWSMania  : Amazon RDS, Aurora, Elasticache](https://www.youtube.com/watch?v=5q4lgtou3Qc)
 - [Hands on LLM and RAG](https://www.youtube.com/watch?v=nzfQaH62SqA)
 - [All about Gemini, AI Studio &amp; Vertex AI](https://www.youtube.com/watch?v=jmH6N1bG_Tc)
 - [AWSMania: Auto Scaling Groups &lpar;ASG&rpar;](https://www.youtube.com/watch?v=JqVcGuirKlk)
