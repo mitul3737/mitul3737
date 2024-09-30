@@ -62,6 +62,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Finetune various Gemini Models and learn about parameters](https://www.youtube.com/watch?v=s7F8gQXW0jM)
 - [AWSMania  : Amazon RDS, Aurora, Elasticache](https://www.youtube.com/watch?v=5q4lgtou3Qc)
 - [AWS System Manager, automation, resource groups](https://www.youtube.com/watch?v=4A4sDBkt7UA)
 - [Hands on LLM and RAG](https://www.youtube.com/watch?v=nzfQaH62SqA)
@@ -71,6 +72,5 @@
 - [AWSMania: Network Load Balancer &lpar;NLB&rpar; and Gateway Load Balancer &lpar;GLB&rpar;](https://www.youtube.com/watch?v=1jUUW7_uyiA)
 - [AWSMania:  EC2 Hibernate](https://www.youtube.com/watch?v=eS6M9IWSkKo)
 - [AWSMania:  Elastic Block Store &lpar;EBS&rpar; Volume](https://www.youtube.com/watch?v=h9R4DVd6etk)
-- [AWSMania: Quickly create an EC2 Instance](https://www.youtube.com/watch?v=NzZCAJBqmFo)
 <!-- BLOG-POST-LIST:END -->
 
