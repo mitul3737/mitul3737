@@ -62,6 +62,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [DevOps Prerequisite &lpar;Part 9&rpar;: SSL and TLS](https://dev.to/mitul3737/devops-prerequisite-part-9-ssl-and-tls-53di)
 - [Finetune various Gemini Models and learn about parameters](https://www.youtube.com/watch?v=s7F8gQXW0jM)
 - [AWSMania  : Amazon RDS, Aurora, Elasticache](https://www.youtube.com/watch?v=5q4lgtou3Qc)
 - [AWS System Manager, automation, resource groups](https://www.youtube.com/watch?v=4A4sDBkt7UA)
@@ -71,6 +72,5 @@
 - [AWSMania: SSL Certificates, Connection Draining](https://www.youtube.com/watch?v=RR62ZdDcXU8)
 - [AWSMania: Network Load Balancer &lpar;NLB&rpar; and Gateway Load Balancer &lpar;GLB&rpar;](https://www.youtube.com/watch?v=1jUUW7_uyiA)
 - [AWSMania:  EC2 Hibernate](https://www.youtube.com/watch?v=eS6M9IWSkKo)
-- [AWSMania:  Elastic Block Store &lpar;EBS&rpar; Volume](https://www.youtube.com/watch?v=h9R4DVd6etk)
 <!-- BLOG-POST-LIST:END -->
 
