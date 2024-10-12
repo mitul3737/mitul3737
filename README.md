@@ -62,8 +62,8 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Season of AI - Copilots](https://www.youtube.com/watch?v=uDLnak0f9qY)
 - [Kubernetes Community Day Chattogram](https://www.youtube.com/watch?v=EbbAPT1Cmq8)
+- [Microsoft Season of AI - Copilots](https://www.youtube.com/watch?v=uDLnak0f9qY)
 - [DevOps Prerequisite &lpar;Part 9&rpar;: SSL and TLS](https://dev.to/mitul3737/devops-prerequisite-part-9-ssl-and-tls-53di)
 - [Finetune various Gemini Models and learn about parameters](https://www.youtube.com/watch?v=s7F8gQXW0jM)
 - [AWSMania  : Amazon RDS, Aurora, Elasticache](https://www.youtube.com/watch?v=5q4lgtou3Qc)
