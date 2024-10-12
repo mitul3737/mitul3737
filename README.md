@@ -62,6 +62,7 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Platform Engineering 101 with Backstage](https://www.youtube.com/watch?v=rcNwfo85ePk)
 - [Kubernetes Community Day Chattogram](https://www.youtube.com/watch?v=EbbAPT1Cmq8)
 - [Microsoft Season of AI - Copilots](https://www.youtube.com/watch?v=uDLnak0f9qY)
 - [DevOps Prerequisite &lpar;Part 9&rpar;: SSL and TLS](https://dev.to/mitul3737/devops-prerequisite-part-9-ssl-and-tls-53di)
@@ -71,6 +72,5 @@
 - [Hands on LLM and RAG](https://www.youtube.com/watch?v=nzfQaH62SqA)
 - [All about Gemini, AI Studio &amp; Vertex AI](https://www.youtube.com/watch?v=jmH6N1bG_Tc)
 - [AWSMania: Auto Scaling Groups &lpar;ASG&rpar;](https://www.youtube.com/watch?v=JqVcGuirKlk)
-- [AWSMania: SSL Certificates, Connection Draining](https://www.youtube.com/watch?v=RR62ZdDcXU8)
 <!-- BLOG-POST-LIST:END -->
 
