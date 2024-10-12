@@ -62,15 +62,15 @@
 
 ### Blogs posts & YouTube Videos:
 <!-- BLOG-POST-LIST:START -->
+- [Become a Cloud Native Expert in 20 Minutes](https://www.youtube.com/watch?v=t34Ze_QKQlI)
+- [Harnessing eBPF for Advanced Observability in Kubernetes Environments](https://www.youtube.com/watch?v=Fkfe4MytUiU)
+- [Onboarding Doesn’t Have to Suck: Elevating Developer Onboarding Through Platform Engineering](https://www.youtube.com/watch?v=s0YY0BYBszw)
+- [Building a Cloud Native Community from Scratch: The Journey of CNCG Hooghly](https://www.youtube.com/watch?v=s1oE1X24Fh8)
 - [Platform Engineering 101 with Backstage](https://www.youtube.com/watch?v=rcNwfo85ePk)
 - [Kubernetes Community Day Chattogram](https://www.youtube.com/watch?v=EbbAPT1Cmq8)
 - [Microsoft Season of AI - Copilots](https://www.youtube.com/watch?v=uDLnak0f9qY)
 - [DevOps Prerequisite &lpar;Part 9&rpar;: SSL and TLS](https://dev.to/mitul3737/devops-prerequisite-part-9-ssl-and-tls-53di)
 - [Finetune various Gemini Models and learn about parameters](https://www.youtube.com/watch?v=s7F8gQXW0jM)
 - [AWSMania  : Amazon RDS, Aurora, Elasticache](https://www.youtube.com/watch?v=5q4lgtou3Qc)
-- [AWS System Manager, automation, resource groups](https://www.youtube.com/watch?v=4A4sDBkt7UA)
-- [Hands on LLM and RAG](https://www.youtube.com/watch?v=nzfQaH62SqA)
-- [All about Gemini, AI Studio &amp; Vertex AI](https://www.youtube.com/watch?v=jmH6N1bG_Tc)
-- [AWSMania: Auto Scaling Groups &lpar;ASG&rpar;](https://www.youtube.com/watch?v=JqVcGuirKlk)
 <!-- BLOG-POST-LIST:END -->
 
