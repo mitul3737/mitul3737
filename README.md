@@ -30,20 +30,17 @@
 
 
 ### About Me 
-🎓 I am a 3rd year student pursuing Bachelors in Computer Science (CS) </br>
+🎓 I am a 4th year student pursuing Bachelors in Computer Science (CS) </br>
 ⛵ Working in Cloud , DevOps, Quantum Computing & Deep Learning </br>
 😄 Pronouns: He/him/his</br>
 
-
-
-
-<details open="">
-  <summary><b>📈 GitHub Stats</b></summary>
+<!--<details open="">
+  #<summary><b>📈 GitHub Stats</b></summary>
   <p align="center">
     <a href="https://github.com/mitul3737/mitul3737"><img alt="Mitul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mitul3737&show_icons=true&theme=merko" width=55%/></a>
     <a href="https://github.com/mitul3737/mitul3737"><img alt="Mitul's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitul3737&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
   
-</details>
+</details>-->
 
 
   
