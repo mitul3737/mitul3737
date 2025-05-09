@@ -42,7 +42,7 @@
   
 </details>-->
 
-
+[![DevStats Card](https://devstats.me/?username=mitul3737)](https://github.com/tico88612/devstats-card)
   
  <!--Adding private contributions count to total commits count
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitul3737&count_private=true)-->
